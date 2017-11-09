@@ -1,0 +1,34 @@
+dblp_curated_sample.xml
+
+Author1 = getAuthorIndex("Anastassia Ailamaki")
+Author2 = getAuthorIndex("David J. DeWitt")
+
+601/229/6/230/600: 4
+601/229/6/5/43/68/903/0/600: 2
+601/229/6/600: 2
+601/229/6/5/43/68/903/0/1/20/74/30/34/205/208/7/600: 1
+601/229/6/5/43/68/782/790/600: 1
+601/229/600: 3
+601/229/6/5/43/68/903/600: 1
+601/229/6/5/43/68/903/0/1/20/74/30/600: 2
+601/229/6/5/43/68/903/0/30/600: 4
+601/229/6/5/43/68/600: 9
+601/229/6/5/43/68/782/790/783/600: 1
+601/600: 1
+601/229/6/5/43/68/782/600: 1
+
+
+David J.	DeWitt	34	
+
+Stefano Ceri (230), Alon Y. Halevy (195), Zachary G. Ives (21), Gerald Held (15), H. V. Jagadish (15), Hamid Pirahesh (15), Serge Abiteboul (33), Rakesh Agrawal (44), W. Bruce Croft (28), Hector Garcia-Molina (48), Dieter Gawlick (28), Jim Gray (32), Laura M. Haas (44), Joseph M. Hellerstein (48), Yannis E. Ioannidis (49), Martin L. Kersten (28), Michael J. Pazzani (28), Michael Lesk (32), Jeffrey F. Naughton (32), Hans-Jrg Schek (33), Timos K. Sellis (28), Avi Silberschatz (28), Jennifer Widom (35), Jeffrey D. Ullman (32), Stanley B. Zdonik (28), Michael L. Brodie (15), Michael Stonebraker (48), Philip A. Bernstein (57), Gerhard Weikum (57), Anastassia Ailamaki (7), Richard T. Snodgrass (38), Michael J. Carey (58), Michael J. Franklin (54), David Maier (37)
+
+
+Anastassia	Ailamaki	7	
+
+Philip A. Bernstein (57), Michael J. Franklin (54), Alon Y. Halevy (195), Zachary G. Ives (21), Gerhard Weikum (57), David J. DeWitt (34), Jennifer Widom (35)
+
+
+
+dblp_2000_2005_114_papers.xml
+Author1	Author2	Degrees of Separation
+Daniel S. Weld	Rachel Pottinger	2

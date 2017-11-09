@@ -1,0 +1,1580 @@
+<dblp>
+<incollection mdate="2002-03-14" key="books/mit/papazoglouST2000/CasatiCPP00">
+    <author>Fabio Casati</author>
+    <author>Stefano Ceri</author>
+    <author>Barbara Pernici</author>
+    <author>Giuseppe Pozzi</author>
+    <title>Conceptual Modeling of Workflows.</title>
+    <pages>281-306</pages>
+    <year>2000</year>
+    <booktitle>Advances in Object-Oriented Data Modeling</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/books/collections/Papazoglou2000.html#CasatiCPP00</url>
+</incollection>
+<incollection mdate="2004-03-30" key="books/sp/staabS2004/DoanMDH04">
+    <author>AnHai Doan</author>
+    <author>Jayant Madhavan</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Ontology Matching: A Machine Learning Approach.</title>
+    <pages>385-404</pages>
+    <crossref>books/sp/StaabS04</crossref>
+    <year>2004</year>
+    <booktitle>Handbook on Ontologies</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/books/collections/StaabS2004.html#DoanMDH04</url>
+</incollection>
+<inproceedings mdate="2012-12-11" key="conf/aaai/MadhavanBDH02">
+    <author>Jayant Madhavan</author>
+    <author>Philip A. Bernstein</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Representing and Reasoning about Mappings between Domain Models.</title>
+    <pages>80-86</pages>
+    <year>2002</year>
+    <crossref>conf/aaai/2002</crossref>
+    <booktitle>AAAI/IAAI</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/aaai/aaai2002.html#MadhavanBDH02</url>
+    <ee>http://www.aaai.org/Library/AAAI/2002/aaai02-013.php</ee>
+</inproceedings>
+<inproceedings mdate="2011-05-31" key="conf/btw/Halevy03">
+    <author>Alon Y. Halevy</author>
+    <title>Data Integration: A Status Report.</title>
+    <pages>24-29</pages>
+    <year>2003</year>
+    <crossref>conf/btw/2003</crossref>
+    <booktitle>BTW</booktitle>
+    <ee>http://subs.emis.de/LNI/Proceedings/Proceedings26/article623.html</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/btw/btw2003.html#Halevy03</url>
+</inproceedings>
+<inproceedings mdate="2005-11-17" key="conf/cidr/CeriFBBATTCECG03">
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Aldo Bongio</author>
+    <author>Stefano Butti</author>
+    <author>Roberto Acerbis</author>
+    <author>Marco Tagliasacchi</author>
+    <author>Giovanni Toffetti</author>
+    <author>Carlo Conserva</author>
+    <author>Roberto Elli</author>
+    <author>Fulvio Ciapessoni</author>
+    <author>Claudio Greppi</author>
+    <title>Architectural Issues and Solutions in the Development of Data-Intensive Web Applications.</title>
+    <year>2003</year>
+    <booktitle>CIDR</booktitle>
+    <ee>http://www-db.cs.wisc.edu/cidr/cidr2003/program/p25.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/cidr/cidr2003.html#CeriFBBATTCECG03</url>
+</inproceedings>
+<inproceedings mdate="2007-09-14" key="conf/cidr/DongH05">
+    <author>Xin Dong</author>
+    <author>Alon Y. Halevy</author>
+    <title>A Platform for Personal Information Management and Integration.</title>
+    <pages>119-130</pages>
+    <year>2005</year>
+    <booktitle>CIDR</booktitle>
+    <ee>http://www.cidrdb.org/cidr2005/papers/P10.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/cidr/cidr2005.html#DongH05</url>
+</inproceedings>
+<inproceedings mdate="2005-11-17" key="conf/cidr/HalevyED03">
+    <author>Alon Y. Halevy</author>
+    <author>Oren Etzioni</author>
+    <author>AnHai Doan</author>
+    <author>Zachary G. Ives</author>
+    <author>Jayant Madhavan</author>
+    <author>Luke McDowell</author>
+    <author>Igor Tatarinov</author>
+    <title>Crossing the Structure Chasm.</title>
+    <year>2003</year>
+    <booktitle>CIDR</booktitle>
+    <ee>http://www-db.cs.wisc.edu/cidr/cidr2003/program/p11.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/cidr/cidr2003.html#HalevyED03</url>
+</inproceedings>
+<inproceedings mdate="2011-07-06" key="conf/edbt/BragaCC04">
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <title>XQBE: A Graphical Interface for XQuery Engines.</title>
+    <pages>848-850</pages>
+    <ee>http://dx.doi.org/10.1007/978-3-540-24741-8_55</ee>
+    <year>2004</year>
+    <crossref>conf/edbt/2004</crossref>
+    <booktitle>EDBT</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbt/edbt2004.html#BragaCC04</url>
+</inproceedings>
+<inproceedings mdate="2009-09-23" key="conf/edbt/CeriFP00">
+    <ee>http://dx.doi.org/10.1007/3-540-46439-5_1</ee>
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Stefano Paraboschi</author>
+    <title>XML: Current Developments and Future Challenges for the Database Community.</title>
+    <pages>3-17</pages>
+    <year>2000</year>
+    <crossref>conf/edbt/2000</crossref>
+    <booktitle>EDBT</booktitle>
+    <ee>http://link.springer.de/link/service/series/0558/bibs/1777/17770003.htm</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbt/edbt2000.html#CeriFP00</url>
+    <cite>journals/jodl/AbiteboulQMWW97</cite>
+    <cite>...</cite>
+    <cite>journals/sigmod/BernsteinBCDFGGHHJLMNPSU98</cite>
+    <cite>journals/sigmod/BonifatiC00</cite>
+    <cite>journals/cn/CeriCDFPT99</cite>
+    <cite>conf/vldb/CeriFP99</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>www/org/w3/TR/NOTE-xml-ql</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>conf/vldb/GoldmanW97</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+    <cite>...</cite>
+</inproceedings>
+<inproceedings mdate="2004-12-13" key="conf/edbtw/BragaCC04">
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <title>XML Challenges for the Database Community: Past, Present, and Future.</title>
+    <pages>197-208</pages>
+    <ee>http://springerlink.metapress.com/openurl.asp?genre=article&amp;issn=0302-9743&amp;volume=3268&amp;spage=197</ee>
+    <year>2004</year>
+    <crossref>conf/edbtw/2004</crossref>
+    <booktitle>EDBT Workshops</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbtw/edbtw2004.html#BragaCC04</url>
+</inproceedings>
+<inproceedings mdate="2011-06-21" key="conf/er/BonifatiCFM00">
+    <author>Angela Bonifati</author>
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Andrea Maurino</author>
+    <title>Building Multi-device, Content-Centric Applications Using WebML and the W3I3 Tool Suite.</title>
+    <pages>64-75</pages>
+    <ee>http://dx.doi.org/10.1007/3-540-45394-6_7</ee>
+    <year>2000</year>
+    <crossref>conf/er/2000w</crossref>
+    <booktitle>ER (Workshops)</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/er/erw2000.html#BonifatiCFM00</url>
+</inproceedings>
+<inproceedings mdate="2002-01-03" key="conf/gi/Halevy01">
+    <author>Alon Y. Halevy</author>
+    <title>Adaptive Query Processing: Enabling Web-based Query Processing.</title>
+    <pages>336-336</pages>
+    <year>2001</year>
+    <booktitle>GI Jahrestagung (1)</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/gi/gi2001-1.html#Halevy01</url>
+</inproceedings>
+<inproceedings mdate="2012-01-23" key="conf/icde/BonifatiBCC02">
+    <author>Angela Bonifati</author>
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <title>Active XQuery.</title>
+    <pages>403-412</pages>
+    <year>2002</year>
+    <booktitle>ICDE</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994754</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2002.html#BonifatiBCC02</url>
+</inproceedings>
+<inproceedings mdate="2012-01-23" key="conf/icde/DoanH02">
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <title>Efficiently Ordering Query Plans for Data Integration.</title>
+    <pages>393-402</pages>
+    <year>2002</year>
+    <crossref>conf/icde/2002</crossref>
+    <booktitle>ICDE</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994753</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2002.html#DoanH02</url>
+</inproceedings>
+<inproceedings mdate="2007-07-26" key="conf/icde/Draper01">
+    <author>Denise Draper</author>
+    <author>Alon Y. Halevy</author>
+    <author>Daniel S. Weld</author>
+    <title>The Nimble XML Data Integration System.</title>
+    <year>2001</year>
+    <crossref>conf/icde/2001</crossref>
+    <booktitle>ICDE</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2001.html#Draper01</url>
+    <pages>155-160</pages>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914824</ee>
+</inproceedings>
+<inproceedings mdate="2012-01-25" key="conf/icde/HalevyIST03">
+    <author>Alon Y. Halevy</author>
+    <author>Zachary G. Ives</author>
+    <author>Dan Suciu</author>
+    <author>Igor Tatarinov</author>
+    <title>Schema Mediation in Peer Data Management Systems.</title>
+    <pages>505-516</pages>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260817</ee>
+    <year>2003</year>
+    <crossref>conf/icde/2003</crossref>
+    <booktitle>ICDE</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2003.html#HalevyIST03</url>
+</inproceedings>
+<inproceedings mdate="2011-10-26" key="conf/icde/MadhavanBDH05">
+    <author>Jayant Madhavan</author>
+    <author>Philip A. Bernstein</author>
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <title>Corpus-based Schema Matching.</title>
+    <year>2005</year>
+    <crossref>conf/icde/2005</crossref>
+    <booktitle>ICDE</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2005.html#MadhavanBDH05</url>
+    <pages>57-68</pages>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2005.39</ee>
+</inproceedings>
+<inproceedings mdate="2011-07-07" key="conf/icwe/AcerbisBBCCCFT04">
+    <author>Roberto Acerbis</author>
+    <author>Aldo Bongio</author>
+    <author>Stefano Butti</author>
+    <author>Stefano Ceri</author>
+    <author>Fulvio Ciapessoni</author>
+    <author>Carlo Conserva</author>
+    <author>Piero Fraternali</author>
+    <author>Giovanni Toffetti</author>
+    <title>WebRatio, an Innovative Technology for Web Application Development.</title>
+    <pages>613-614</pages>
+    <ee>http://dx.doi.org/10.1007/978-3-540-27834-4_90</ee>
+    <year>2004</year>
+    <crossref>conf/icwe/2004</crossref>
+    <booktitle>ICWE</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icwe/icwe2004.html#AcerbisBBCCCFT04</url>
+</inproceedings>
+<inproceedings mdate="2005-07-18" key="conf/icwe/CeriDDF05">
+    <author>Stefano Ceri</author>
+    <author>Florian Daniel</author>
+    <author>Vera Demald</author>
+    <author>Federico Michele Facca</author>
+    <title>An Approach to User-Behavior-Aware Web Applications.</title>
+    <pages>417-428</pages>
+    <year>2005</year>
+    <crossref>conf/icwe/2005</crossref>
+    <booktitle>ICWE</booktitle>
+    <ee>http://dx.doi.org/10.1007/11531371_54</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icwe/icwe2005.html#CeriDDF05</url>
+</inproceedings>
+<inproceedings mdate="2011-07-07" key="conf/icwe/CeriDMN04">
+    <author>Stefano Ceri</author>
+    <author>Peter Dolog</author>
+    <author>Maristella Matera</author>
+    <author>Wolfgang Nejdl</author>
+    <title>Model-Driven Design of Web Applications with Client-Side Adaptation.</title>
+    <pages>201-214</pages>
+    <ee>http://dx.doi.org/10.1007/978-3-540-27834-4_26</ee>
+    <year>2004</year>
+    <crossref>conf/icwe/2004</crossref>
+    <booktitle>ICWE</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icwe/icwe2004.html#CeriDMN04</url>
+</inproceedings>
+<inproceedings mdate="2004-05-05" key="conf/ijcai/HalevyM03">
+    <author>Alon Y. Halevy</author>
+    <author>Jayant Madhavan</author>
+    <title>Corpus-Based Knowledge Representation.</title>
+    <pages>1567-1572</pages>
+    <year>2003</year>
+    <crossref>conf/ijcai/2003</crossref>
+    <booktitle>IJCAI</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/ijcai2003.html#HalevyM03</url>
+</inproceedings>
+<inproceedings mdate="2004-07-21" key="conf/ijcai/MadhavanBCHS03">
+    <author>Jayant Madhavan</author>
+    <author>Philip A. Bernstein</author>
+    <author>Kuang Chen</author>
+    <author>Alon Y. Halevy</author>
+    <author>Pradeep Shenoy</author>
+    <title>Corpus-based Schema Matching.</title>
+    <pages>59-63</pages>
+    <year>2003</year>
+    <crossref>conf/ijcai/2003iiweb</crossref>
+    <booktitle>IIWeb</booktitle>
+    <ee>http://www.isi.edu/info-agents/workshops/ijcai03/papers/Madhavan-ijcai-corpus2.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/ijcai2003iiweb.html#MadhavanBCHS03</url>
+</inproceedings>
+<inproceedings mdate="2005-11-04" key="conf/otm/Ceri05">
+    <author>Stefano Ceri</author>
+    <title>Process Modeling in Web Applications.</title>
+    <pages>20</pages>
+    <year>2005</year>
+    <crossref>conf/otm/2005-3</crossref>
+    <booktitle>OTM Conferences (1)</booktitle>
+    <ee>http://dx.doi.org/10.1007/11575771_3</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/otm/otm2005-1c.html#Ceri05</url>
+</inproceedings>
+<inproceedings mdate="2005-05-20" key="conf/pods/GuptaSH03">
+    <author>Ashish Kumar Gupta</author>
+    <author>Dan Suciu</author>
+    <author>Alon Y. Halevy</author>
+    <title>The view selection problem for XML content based routing.</title>
+    <pages>68-77</pages>
+    <year>2003</year>
+    <crossref>conf/pods/2003</crossref>
+    <booktitle>PODS</booktitle>
+    <ee>http://doi.acm.org/10.1145/773153.773161</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/pods/pods2003.html#GuptaSH03</url>
+</inproceedings>
+<inproceedings mdate="2003-06-18" key="conf/sac/AugurusaBCC03">
+    <author>Enrico Augurusa</author>
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <title>Design and Implementation of a Graphical Interface to Xquery.</title>
+    <pages>1163-1167</pages>
+    <year>2003</year>
+    <crossref>conf/sac/2003</crossref>
+    <booktitle>SAC</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sac/sac2003.html#AugurusaBCC03</url>
+</inproceedings>
+<inproceedings mdate="2003-06-18" key="conf/sac/BragaCCKL03">
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <author>Mika Klemettinen</author>
+    <author>Pier Luca Lanzi</author>
+    <title>Discovering Interesting Information in XML Data with Association Rules.</title>
+    <pages>450-454</pages>
+    <year>2003</year>
+    <crossref>conf/sac/2003</crossref>
+    <booktitle>SAC</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sac/sac2003.html#BragaCCKL03</url>
+</inproceedings>
+<inproceedings mdate="2002-12-06" key="conf/sac/CeriCDFT00">
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Ernesto Damiani</author>
+    <author>Piero Fraternali</author>
+    <author>Letizia Tanca</author>
+    <title>Complex Queries in XML-GL.</title>
+    <pages>888-893</pages>
+    <year>2000</year>
+    <booktitle>SAC (2)</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sac/sac2000-2.html#CeriCDFT00</url>
+</inproceedings>
+<inproceedings mdate="2005-06-27" key="conf/sebd/BrambillaCCT05">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Christina Tziviskou</author>
+    <title>Exception Handling in Workflow-Driven Web Applications.</title>
+    <pages>16-23</pages>
+    <year>2005</year>
+    <crossref>conf/sebd/2005</crossref>
+    <booktitle>SEBD</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sebd/sebd2005.html#BrambillaCCT05</url>
+</inproceedings>
+<inproceedings mdate="2011-07-06" key="conf/semweb/McDowellEGHLPVV03">
+    <author>Luke McDowell</author>
+    <author>Oren Etzioni</author>
+    <author>Steven D. Gribble</author>
+    <author>Alon Y. Halevy</author>
+    <author>Henry M. Levy</author>
+    <author>William Pentney</author>
+    <author>Deepak Verma</author>
+    <author>Stani Vlasseva</author>
+    <title>Mangrove: Enticing Ordinary People onto the Semantic Web via Instant Gratification.</title>
+    <pages>754-770</pages>
+    <ee>http://dx.doi.org/10.1007/978-3-540-39718-2_48</ee>
+    <year>2003</year>
+    <crossref>conf/semweb/2003</crossref>
+    <booktitle>International Semantic Web Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/iswc2003.html#McDowellEGHLPVV03</url>
+</inproceedings>
+<inproceedings mdate="2011-08-04" key="conf/semweb/McDowellEH04">
+    <author>Luke McDowell</author>
+    <author>Oren Etzioni</author>
+    <author>Alon Y. Halevy</author>
+    <title>The Specification of Agent Behavior by Ordinary People: A Case Study.</title>
+    <pages>182-197</pages>
+    <ee>http://dx.doi.org/10.1007/978-3-540-30475-3_14</ee>
+    <year>2004</year>
+    <crossref>conf/semweb/2004</crossref>
+    <booktitle>International Semantic Web Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/iswc2004.html#McDowellEH04</url>
+</inproceedings>
+<inproceedings mdate="2006-03-28" key="conf/sigmod/BragaCCR05">
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <author>Alessandro Raffio</author>
+    <title>XQBE: a visual environment for learning XML query languages.</title>
+    <pages>903-905</pages>
+    <year>2005</year>
+    <crossref>conf/sigmod/2005</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1066157.1066282</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2005.html#BragaCCR05</url>
+</inproceedings>
+<inproceedings mdate="2006-03-31" key="conf/sigmod/BrambillaCCDFM04">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Marco Dario</author>
+    <author>Piero Fraternali</author>
+    <author>Ioana Manolescu</author>
+    <title>Declarative Specification of Web Applications exploiting Web Services and Workflows.</title>
+    <year>2004</year>
+    <crossref>conf/sigmod/2004</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1007568.1007688</ee>
+    <ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-107.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2004.html#BrambillaCCDFM04</url>
+    <pages>909-910</pages>
+</inproceedings>
+<inproceedings mdate="2006-03-28" key="conf/sigmod/BrambillaCFAB05">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Roberto Acerbis</author>
+    <author>Aldo Bongio</author>
+    <title>Model-driven design of service-enabled web applications.</title>
+    <pages>851-856</pages>
+    <year>2005</year>
+    <crossref>conf/sigmod/2005</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1066157.1066265</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2005.html#BrambillaCFAB05</url>
+</inproceedings>
+<inproceedings mdate="2006-03-28" key="conf/sigmod/CaiDHLM05">
+    <author>Yuhan Cai</author>
+    <author>Xin Luna Dong</author>
+    <author>Alon Y. Halevy</author>
+    <author>Jing Michelle Liu</author>
+    <author>Jayant Madhavan</author>
+    <title>Personal information management with SEMEX.</title>
+    <pages>921-923</pages>
+    <year>2005</year>
+    <crossref>conf/sigmod/2005</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1066157.1066289</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2005.html#CaiDHLM05</url>
+</inproceedings>
+<inproceedings mdate="2012-09-14" key="conf/sigmod/DoanDH01">
+    <author>AnHai Doan</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach.</title>
+    <pages>509-520</pages>
+    <year>2001</year>
+    <crossref>conf/sigmod/2001</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2001.html#DoanDH01</url>
+    <ee>http://doi.acm.org/10.1145/375663.375731</ee>
+</inproceedings>
+<inproceedings mdate="2006-03-28" key="conf/sigmod/DongHMN05">
+    <author>Xin Dong</author>
+    <author>Alon Y. Halevy</author>
+    <author>Jayant Madhavan</author>
+    <title>Reference Reconciliation in Complex Information Spaces.</title>
+    <year>2005</year>
+    <crossref>conf/sigmod/2005</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2005.html#DongHMN05</url>
+    <pages>85-96</pages>
+    <ee>http://doi.acm.org/10.1145/1066157.1066168</ee>
+</inproceedings>
+<inproceedings mdate="2012-09-14" key="conf/sigmod/DraperHW01">
+    <author>Denise Draper</author>
+    <author>Alon Y. Halevy</author>
+    <author>Daniel S. Weld</author>
+    <title>The Nimble Integration Engine.</title>
+    <pages>567-568</pages>
+    <year>2001</year>
+    <crossref>conf/sigmod/2001</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2001.html#DraperHW01</url>
+    <ee>http://doi.acm.org/10.1145/375663.375744</ee>
+</inproceedings>
+<inproceedings mdate="2006-03-31" key="conf/sigmod/FranklinWWBHDAI04">
+    <author>Michael J. Franklin</author>
+    <author>Jennifer Widom</author>
+    <author>Gerhard Weikum</author>
+    <author>Philip A. Bernstein</author>
+    <author>Alon Y. Halevy</author>
+    <author>David J. DeWitt</author>
+    <author>Anastassia Ailamaki</author>
+    <author>Zachary G. Ives</author>
+    <title>Rethinking the Conference Reviewing Process - Panel.</title>
+    <year>2004</year>
+    <crossref>conf/sigmod/2004</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1007568.1007720</ee>
+    <ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/panel.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2004.html#FranklinWWBHDAI04</url>
+    <pages>957</pages>
+</inproceedings>
+<inproceedings mdate="2006-03-28" key="conf/sigmod/HalevyABCDPRS05">
+    <author>Alon Y. Halevy</author>
+    <author>Naveen Ashish</author>
+    <author>Dina Bitton</author>
+    <author>Michael J. Carey</author>
+    <author>Denise Draper</author>
+    <author>Jeff Pollock</author>
+    <author>Arnon Rosenthal</author>
+    <author>Vishal Sikka</author>
+    <title>Enterprise information integration: successes, challenges and controversies.</title>
+    <pages>778-787</pages>
+    <year>2005</year>
+    <crossref>conf/sigmod/2005</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1066157.1066246</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2005.html#HalevyABCDPRS05</url>
+</inproceedings>
+<inproceedings mdate="2006-03-31" key="conf/sigmod/IvesHW04">
+    <author>Zachary G. Ives</author>
+    <author>Alon Y. Halevy</author>
+    <author>Daniel S. Weld</author>
+    <title>Adapting to Source Properties in Processing Data Integration Queries.</title>
+    <year>2004</year>
+    <crossref>conf/sigmod/2004</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2004.html#IvesHW04</url>
+    <pages>395-406</pages>
+    <ee>http://doi.acm.org/10.1145/1007568.1007613</ee>
+    <ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-581.pdf</ee>
+</inproceedings>
+<inproceedings mdate="2005-02-21" key="conf/sigmod/LeeDDHD04">
+    <author>Robin Dhamankar</author>
+    <author>Yoonkyong Lee</author>
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <author>Pedro Domingos</author>
+    <title>iMAP: Discovering Complex Mappings between Database Schemas.</title>
+    <year>2004</year>
+    <crossref>conf/sigmod/2004</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2004.html#LeeDDHD04</url>
+    <pages>383-394</pages>
+    <ee>http://doi.acm.org/10.1145/1007568.1007612</ee>
+</inproceedings>
+<inproceedings mdate="2006-03-28" key="conf/sigmod/MelnikBHR05">
+    <author>Sergey Melnik</author>
+    <author>Philip A. Bernstein</author>
+    <author>Alon Y. Halevy</author>
+    <author>Erhard Rahm</author>
+    <title>Supporting Executable Mappings in Model Management.</title>
+    <year>2005</year>
+    <crossref>conf/sigmod/2005</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2005.html#MelnikBHR05</url>
+    <pages>167-178</pages>
+    <ee>http://doi.acm.org/10.1145/1066157.1066177</ee>
+</inproceedings>
+<inproceedings mdate="2006-03-31" key="conf/sigmod/TatarinovH04">
+    <author>Igor Tatarinov</author>
+    <author>Alon Y. Halevy</author>
+    <title>Efficient Query Reformulation in Peer-Data Management Systems.</title>
+    <year>2004</year>
+    <crossref>conf/sigmod/2004</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2004.html#TatarinovH04</url>
+    <pages>539-550</pages>
+    <ee>http://doi.acm.org/10.1145/1007568.1007629</ee>
+    <ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-609.pdf</ee>
+</inproceedings>
+<inproceedings mdate="2012-09-14" key="conf/sigmod/TatarinovIHW01">
+    <author>Igor Tatarinov</author>
+    <author>Zachary G. Ives</author>
+    <author>Alon Y. Halevy</author>
+    <author>Daniel S. Weld</author>
+    <title>Updating XML.</title>
+    <pages>413-424</pages>
+    <year>2001</year>
+    <crossref>conf/sigmod/2001</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2001.html#TatarinovIHW01</url>
+    <ee>http://doi.acm.org/10.1145/375663.375720</ee>
+</inproceedings>
+<inproceedings mdate="2012-09-17" key="conf/vldb/ChirkovaHS01">
+    <author>Rada Chirkova</author>
+    <author>Alon Y. Halevy</author>
+    <author>Dan Suciu</author>
+    <title>A Formal Perspective on the View Selection Problem.</title>
+    <year>2001</year>
+    <crossref>conf/vldb/2001</crossref>
+    <booktitle>VLDB</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb2001.html#ChirkovaHS01</url>
+    <pages>59-68</pages>
+    <ee>http://www.vldb.org/conf/2001/P059.pdf</ee>
+</inproceedings>
+<inproceedings mdate="2012-09-17" key="conf/vldb/DongHMNZ04">
+    <author>Xin Dong</author>
+    <author>Alon Y. Halevy</author>
+    <author>Jayant Madhavan</author>
+    <author>Ema Nemes</author>
+    <author>Jun Zhang</author>
+    <title>Simlarity Search for Web Services.</title>
+    <year>2004</year>
+    <crossref>conf/vldb/2004</crossref>
+    <booktitle>VLDB</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb2004.html#DongHMNZ04</url>
+    <pages>372-383</pages>
+    <ee>http://www.vldb.org/conf/2004/RS10P1.PDF</ee>
+</inproceedings>
+<inproceedings mdate="2012-09-17" key="conf/vldb/DongHT04">
+    <author>Xin Dong</author>
+    <author>Alon Y. Halevy</author>
+    <author>Igor Tatarinov</author>
+    <title>Containment of Nested XML Queries.</title>
+    <year>2004</year>
+    <crossref>conf/vldb/2004</crossref>
+    <booktitle>VLDB</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb2004.html#DongHT04</url>
+    <pages>132-143</pages>
+    <ee>http://www.vldb.org/conf/2004/RS4P2.PDF</ee>
+</inproceedings>
+<inproceedings mdate="2012-09-17" key="conf/vldb/Halevy04">
+    <author>Alon Y. Halevy</author>
+    <title>Structures, Semantics and Statistics.</title>
+    <pages>4-6</pages>
+    <year>2004</year>
+    <crossref>conf/vldb/2004</crossref>
+    <booktitle>VLDB</booktitle>
+    <ee>http://www.vldb.org/conf/2004/KEY2.PDF</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb2004.html#Halevy04</url>
+</inproceedings>
+<inproceedings mdate="2012-09-17" key="conf/vldb/MadhavanH03">
+    <ee>http://www.vldb.org/conf/2003/papers/S18P01.pdf</ee>
+    <author>Jayant Madhavan</author>
+    <author>Alon Y. Halevy</author>
+    <title>Composing Mappings Among Data Sources.</title>
+    <year>2003</year>
+    <booktitle>VLDB</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb2003.html#MadhavanH03</url>
+    <pages>572-583</pages>
+</inproceedings>
+<inproceedings mdate="2002-01-03" key="conf/webdb/BongioCFM00">
+    <author>Aldo Bongio</author>
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Andrea Maurino</author>
+    <title>Modeling Data Entry and Operations in WebML.</title>
+    <pages>87-92</pages>
+    <year>2000</year>
+    <booktitle>WebDB (Informal Proceedings)</booktitle>
+    <ee>http://www.research.att.com/conf/webdb2000/PAPERS/6b.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/webdb/webdb2000.html#BongioCFM00</url>
+</inproceedings>
+<inproceedings mdate="2011-06-22" key="conf/webdb/BongioCFM00a">
+    <author>Aldo Bongio</author>
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Andrea Maurino</author>
+    <title>Modeling Data Entry and Operations in WebML.</title>
+    <pages>201-214</pages>
+    <ee>http://dx.doi.org/10.1007/3-540-45271-0_13</ee>
+    <year>2000</year>
+    <crossref>conf/webdb/2000</crossref>
+    <booktitle>WebDB (Selected Papers)</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/webdb/webdbs2000.html#BongioCFM00a</url>
+</inproceedings>
+<inproceedings mdate="2005-07-06" key="conf/webdb/DongH05">
+    <author>Xin Dong</author>
+    <author>Alon Y. Halevy</author>
+    <title>Malleable Schemas: A Preliminary Report.</title>
+    <pages>139-144</pages>
+    <year>2005</year>
+    <crossref>conf/webdb/2005</crossref>
+    <booktitle>WebDB</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/webdb/webdb2005.html#DongH05</url>
+</inproceedings>
+<inproceedings mdate="2003-06-23" key="conf/webdb/EtzioniHLM03">
+    <author>Oren Etzioni</author>
+    <author>Alon Y. Halevy</author>
+    <author>Henry M. Levy</author>
+    <author>Luke McDowell</author>
+    <title>Semantic Email: Adding Lightweight Data Manipulation Capabilities to the Email Habitat.</title>
+    <pages>13-18</pages>
+    <year>2003</year>
+    <crossref>conf/webdb/2003</crossref>
+    <booktitle>WebDB</booktitle>
+    <ee>http://www.cse.ogi.edu/webdb03/papers/03.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/webdb/webdb2003.html#EtzioniHLM03</url>
+</inproceedings>
+<inproceedings mdate="2002-08-16" key="conf/webdb/GribbleHIRS01">
+    <author>Steven D. Gribble</author>
+    <author>Alon Y. Halevy</author>
+    <author>Zachary G. Ives</author>
+    <author>Maya Rodrig</author>
+    <author>Dan Suciu</author>
+    <title>What Can Database Do for Peer-to-Peer?</title>
+    <pages>31-36</pages>
+    <year>2001</year>
+    <booktitle>WebDB</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/webdb/webdb2001.html#GribbleHIRS01</url>
+</inproceedings>
+<inproceedings mdate="2003-03-06" key="conf/webdb/GuptaHS02">
+    <author>Ashish Kumar Gupta</author>
+    <author>Alon Y. Halevy</author>
+    <author>Dan Suciu</author>
+    <title>View Selection for Stream Processing.</title>
+    <pages>83-88</pages>
+    <year>2002</year>
+    <booktitle>WebDB</booktitle>
+    <ee>http://www.db.ucsd.edu/webdb2002/papers/58.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/webdb/webdb2002.html#GuptaHS02</url>
+</inproceedings>
+<inproceedings mdate="2002-12-17" key="conf/www/BonifatiCP01">
+    <author>Angela Bonifati</author>
+    <author>Stefano Ceri</author>
+    <author>Stefano Paraboschi</author>
+    <title>Pushing reactive services to XML repositories using active rules.</title>
+    <pages>633-641</pages>
+    <year>2001</year>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/371920.372168</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2001.html#BonifatiCP01</url>
+</inproceedings>
+<inproceedings mdate="2005-07-13" key="conf/www/BragaCCA03">
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <author>Enrico Augurusa</author>
+    <title>XQuery By Example.</title>
+    <year>2003</year>
+    <booktitle>WWW (Posters)</booktitle>
+    <ee>http://www2003.org/cdrom/papers/poster/p291/p291-braga.html</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2003p.html#BragaCCA03</url>
+</inproceedings>
+<inproceedings mdate="2005-07-13" key="conf/www/BrambillaCCFM03">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Piero Fraternali</author>
+    <author>Ioana Manolescu</author>
+    <title>Specification and Design of Workflow-driven Hypertexts.</title>
+    <year>2003</year>
+    <booktitle>WWW (Posters)</booktitle>
+    <ee>http://www2003.org/cdrom/papers/poster/p282/p282-brambilla.htm</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2003p.html#BrambillaCCFM03</url>
+</inproceedings>
+<inproceedings mdate="2006-02-10" key="conf/www/BrambillaCCT05">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Christina Tziviskou</author>
+    <title>Exception handling in workflow-driven Web applications.</title>
+    <pages>170-179</pages>
+    <year>2005</year>
+    <crossref>conf/www/2005</crossref>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/1060745.1060773</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2005.html#BrambillaCCT05</url>
+</inproceedings>
+<inproceedings mdate="2002-12-17" key="conf/www/DoanMDH02">
+    <author>AnHai Doan</author>
+    <author>Jayant Madhavan</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Learning to map between ontologies on the semantic web.</title>
+    <pages>662-673</pages>
+    <year>2002</year>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/511446.511532</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2002.html#DoanMDH02</url>
+</inproceedings>
+<inproceedings mdate="2006-02-10" key="conf/www/FaccaCAD05">
+    <author>Federico Michele Facca</author>
+    <author>Stefano Ceri</author>
+    <author>Jacopo Armani</author>
+    <author>Vera Demald</author>
+    <title>Building reactive web applications.</title>
+    <pages>1058-1059</pages>
+    <year>2005</year>
+    <crossref>conf/www/2005si</crossref>
+    <booktitle>WWW (Special interest tracks and posters)</booktitle>
+    <ee>http://doi.acm.org/10.1145/1062745.1062867</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2005si.html#FaccaCAD05</url>
+</inproceedings>
+<inproceedings mdate="2003-05-26" key="conf/www/HalevyIMT03">
+    <author>Alon Y. Halevy</author>
+    <author>Zachary G. Ives</author>
+    <author>Peter Mork</author>
+    <author>Igor Tatarinov</author>
+    <title>Piazza: data management infrastructure for semantic web applications.</title>
+    <pages>556-567</pages>
+    <year>2003</year>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/775152.775231</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2003.html#HalevyIMT03</url>
+</inproceedings>
+<inproceedings mdate="2005-07-13" key="conf/www/ManolescuCBFC03">
+    <author>Ioana Manolescu</author>
+    <author>Stefano Ceri</author>
+    <author>Marco Brambilla</author>
+    <author>Piero Fraternali</author>
+    <author>Sara Comai</author>
+    <title>Exploiting the Combined Potential of Web Applications and Web Services.</title>
+    <year>2003</year>
+    <booktitle>WWW (Posters)</booktitle>
+    <ee>http://www2003.org/cdrom/papers/poster/p267/p267-manolescu.html</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2003p.html#ManolescuCBFC03</url>
+</inproceedings>
+<inproceedings mdate="2005-07-13" key="conf/www/McDowellEGHLPVV03">
+    <author>Luke McDowell</author>
+    <author>Oren Etzioni</author>
+    <author>Steven D. Gribble</author>
+    <author>Alon Y. Halevy</author>
+    <author>Henry M. Levy</author>
+    <author>William Pentney</author>
+    <author>Deepak Verma</author>
+    <author>Stani Vlasseva</author>
+    <title>Evolving the Semantic Web with Mangrove.</title>
+    <year>2003</year>
+    <booktitle>WWW (Posters)</booktitle>
+    <ee>http://www2003.org/cdrom/papers/poster/p167/p167-mcdowell.html</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2003p.html#McDowellEGHLPVV03</url>
+</inproceedings>
+<inproceedings mdate="2004-10-06" key="conf/www/McDowellEH04">
+    <author>Luke McDowell</author>
+    <author>Oren Etzioni</author>
+    <author>Alon Y. Halevy</author>
+    <title>Specifying Semantic Email Processes.</title>
+    <year>2004</year>
+    <crossref>conf/www/2004sw</crossref>
+    <booktitle>WWW Workshop on Application Design, Development and Implementation Issues in the Semantic Web</booktitle>
+    <ee>http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS//Vol-105/mcdowell-submission.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/wwwsw2004.html#McDowellEH04</url>
+</inproceedings>
+<inproceedings mdate="2006-02-10" key="conf/www/McDowellEHL04">
+    <author>Luke McDowell</author>
+    <author>Oren Etzioni</author>
+    <author>Alon Y. Halevy</author>
+    <author>Henry M. Levy</author>
+    <title>Semantic email.</title>
+    <pages>244-254</pages>
+    <year>2004</year>
+    <crossref>conf/www/2004</crossref>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/988672.988706</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2004.html#McDowellEHL04</url>
+</inproceedings>
+<article mdate="2010-12-29" key="journals/aim/DoanH05">
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <title>Semantic Integration Research in the Database Community: A Brief Survey.</title>
+    <pages>83-94</pages>
+    <year>2005</year>
+    <volume>26</volume>
+    <journal>AI Magazine</journal>
+    <number>1</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/aim/aim26.html#DoanH05</url>
+    <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/1801</ee>
+</article>
+<article mdate="2010-12-29" key="journals/aim/DoanHN04">
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <author>Natalya Fridman Noy</author>
+    <title>Semantic Integration Workshop at the Second International Semantic Web Conference (ISWC-2003).</title>
+    <pages>109-112</pages>
+    <year>2004</year>
+    <volume>25</volume>
+    <journal>AI Magazine</journal>
+    <number>1</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/aim/aim25.html#DoanHN04</url>
+    <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/1753</ee>
+</article>
+<article mdate="2010-12-29" key="journals/aim/NoyDH05">
+    <author>Natalya Fridman Noy</author>
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <title>Semantic Integration.</title>
+    <pages>7-10</pages>
+    <year>2005</year>
+    <volume>26</volume>
+    <journal>AI Magazine</journal>
+    <number>1</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/aim/aim26.html#NoyDH05</url>
+    <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/1794</ee>
+</article>
+<article mdate="2006-02-09" key="journals/cacm/AbiteboulABCCCDFGGGHHHIKPLMNSSSSSUWWZ05">
+    <author>Serge Abiteboul</author>
+    <author>Rakesh Agrawal</author>
+    <author>Philip A. Bernstein</author>
+    <author>Michael J. Carey</author>
+    <author>Stefano Ceri</author>
+    <author>W. Bruce Croft</author>
+    <author>David J. DeWitt</author>
+    <author>Michael J. Franklin</author>
+    <author>Hector Garcia-Molina</author>
+    <author>Dieter Gawlick</author>
+    <author>Jim Gray</author>
+    <author>Laura M. Haas</author>
+    <author>Alon Y. Halevy</author>
+    <author>Joseph M. Hellerstein</author>
+    <author>Yannis E. Ioannidis</author>
+    <author>Martin L. Kersten</author>
+    <author>Michael J. Pazzani</author>
+    <author>Michael Lesk</author>
+    <author>David Maier</author>
+    <author>Jeffrey F. Naughton</author>
+    <author>Hans-Jrg Schek</author>
+    <author>Timos K. Sellis</author>
+    <author>Avi Silberschatz</author>
+    <author>Michael Stonebraker</author>
+    <author>Richard T. Snodgrass</author>
+    <author>Jeffrey D. Ullman</author>
+    <author>Gerhard Weikum</author>
+    <author>Jennifer Widom</author>
+    <author>Stanley B. Zdonik</author>
+    <title>The Lowell database research self-assessment.</title>
+    <pages>111-118</pages>
+    <year>2005</year>
+    <volume>48</volume>
+    <journal>Commun. ACM</journal>
+    <number>5</number>
+    <ee>http://doi.acm.org/10.1145/1060710.1060718</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/cacm/cacm48.html#AbiteboulABCCCDFGGGHHHIKPLMNSSSSSUWWZ05</url>
+</article>
+<article mdate="2003-03-17" key="journals/cn/BonifatiCP02">
+    <author>Angela Bonifati</author>
+    <author>Stefano Ceri</author>
+    <author>Stefano Paraboschi</author>
+    <title>Pushing reactive services to XML repositories using active rules.</title>
+    <pages>645-660</pages>
+    <year>2002</year>
+    <volume>39</volume>
+    <journal>Computer Networks</journal>
+    <number>5</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/cn/cn39.html#BonifatiCP02</url>
+    <ee>http://dx.doi.org/10.1016/S1389-1286(02)00226-8</ee>
+</article>
+<article mdate="2003-11-27" key="journals/cn/CeriFB00">
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Aldo Bongio</author>
+    <title>Web Modeling Language (WebML): a modeling language for designing Web sites.</title>
+    <pages>137-157</pages>
+    <year>2000</year>
+    <volume>33</volume>
+    <journal>Computer Networks</journal>
+    <number>1-6</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/cn/cn33.html#CeriFB00</url>
+    <ee>http://dx.doi.org/10.1016/S1389-1286(00)00040-2</ee>
+</article>
+<article mdate="2011-12-05" key="journals/corr/cs-DB-0310006" publtype="informal publication">
+    <author>Serge Abiteboul</author>
+    <author>Rakesh Agrawal</author>
+    <author>Philip A. Bernstein</author>
+    <author>Michael J. Carey</author>
+    <author>Stefano Ceri</author>
+    <author>W. Bruce Croft</author>
+    <author>David J. DeWitt</author>
+    <author>Michael J. Franklin</author>
+    <author>Hector Garcia-Molina</author>
+    <author>Dieter Gawlick</author>
+    <author>Jim Gray</author>
+    <author>Laura M. Haas</author>
+    <author>Alon Y. Halevy</author>
+    <author>Joseph M. Hellerstein</author>
+    <author>Yannis E. Ioannidis</author>
+    <author>Martin L. Kersten</author>
+    <author>Michael J. Pazzani</author>
+    <author>Michael Lesk</author>
+    <author>David Maier</author>
+    <author>Jeffrey F. Naughton</author>
+    <author>Hans-Jrg Schek</author>
+    <author>Timos K. Sellis</author>
+    <author>Avi Silberschatz</author>
+    <author>Michael Stonebraker</author>
+    <author>Richard T. Snodgrass</author>
+    <author>Jeffrey D. Ullman</author>
+    <author>Gerhard Weikum</author>
+    <author>Jennifer Widom</author>
+    <author>Stanley B. Zdonik</author>
+    <title>The Lowell Database Research Self Assessment</title>
+    <ee>http://arxiv.org/abs/cs.DB/0310006</ee>
+    <year>2003</year>
+    <journal>CoRR</journal>
+    <volume>cs.DB/0310006</volume>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/corr/corr0310.html#cs-DB-0310006</url>
+</article>
+<article mdate="2007-12-19" key="journals/debu/BrambillaCCFM02">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Piero Fraternali</author>
+    <author>Ioana Manolescu</author>
+    <title>Model-driven Specification of Web Services Composition and Integration with Data-intensive Web Applications.</title>
+    <pages>53-59</pages>
+    <year>2002</year>
+    <ee>http://sites.computer.org/debull/A02DEC-CD.pdf</ee>
+    <volume>25</volume>
+    <journal>IEEE Data Eng. Bull.</journal>
+    <number>4</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu25.html#BrambillaCCFM02</url>
+</article>
+<article mdate="2007-12-19" key="journals/debu/Halevy01">
+    <author>Alon Y. Halevy</author>
+    <title>Letter from the Special Issue Editor.</title>
+    <pages>2</pages>
+    <year>2001</year>
+    <ee>http://sites.computer.org/debull/A01JUN-CD.pdf</ee>
+    <volume>24</volume>
+    <journal>IEEE Data Eng. Bull.</journal>
+    <number>2</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu24.html#Halevy01</url>
+</article>
+<article mdate="2007-12-19" key="journals/debu/IvesHW01">
+    <author>Zachary G. Ives</author>
+    <author>Alon Y. Halevy</author>
+    <author>Daniel S. Weld</author>
+    <title>Integrating Network-Bound XML Data.</title>
+    <pages>20-26</pages>
+    <year>2001</year>
+    <ee>http://sites.computer.org/debull/A01JUN-CD.pdf</ee>
+    <volume>24</volume>
+    <journal>IEEE Data Eng. Bull.</journal>
+    <number>2</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu24.html#IvesHW01</url>
+</article>
+<article mdate="2011-09-16" key="journals/debu/NascimentoHMB03">
+    <author>Alon Y. Halevy</author>
+    <author>Jayant Madhavan</author>
+    <author>Philip A. Bernstein</author>
+    <title>Discovering Structure in a Corpus of Schemas.</title>
+    <pages>26-33</pages>
+    <year>2003</year>
+    <volume>26</volume>
+    <journal>IEEE Data Eng. Bull.</journal>
+    <number>3</number>
+    <ee>http://sites.computer.org/debull/A03sept/alon.ps</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu26.html#NascimentoHMB03</url>
+</article>
+<article mdate="2011-10-31" key="journals/internet/CeriFM02">
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <author>Maristella Matera</author>
+    <title>Conceptual Modeling of Data-Intensive Web Applications.</title>
+    <pages>20-30</pages>
+    <year>2002</year>
+    <volume>6</volume>
+    <journal>IEEE Internet Computing</journal>
+    <number>4</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2002.1020321</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/internet/internet6.html#CeriFM02</url>
+</article>
+<article mdate="2005-05-13" key="journals/ipl/BonifatiCP05">
+    <author>Angela Bonifati</author>
+    <author>Stefano Ceri</author>
+    <author>Stefano Paraboschi</author>
+    <title>Event Trace Independence of active behavior.</title>
+    <pages>71-77</pages>
+    <year>2005</year>
+    <volume>94</volume>
+    <journal>Inf. Process. Lett.</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1016/j.ipl.2004.12.014</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ipl/ipl94.html#BonifatiCP05</url>
+</article>
+<article mdate="2003-11-20" key="journals/jacm/HalevyMSS01">
+    <author>Alon Y. Halevy</author>
+    <author>Inderpal Singh Mumick</author>
+    <author>Yehoshua Sagiv</author>
+    <author>Oded Shmueli</author>
+    <title>Static analysis in datalog extensions.</title>
+    <pages>971-1012</pages>
+    <year>2001</year>
+    <volume>48</volume>
+    <journal>J. ACM</journal>
+    <number>5</number>
+    <ee>http://doi.acm.org/10.1145/502102.502104</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jacm/jacm48.html#HalevyMSS01</url>
+</article>
+<article mdate="2003-11-20" key="journals/jcss/MillsteinHF03">
+    <author>Todd D. Millstein</author>
+    <author>Alon Y. Halevy</author>
+    <author>Marc Friedman</author>
+    <title>Query containment for data integration systems.</title>
+    <pages>20-39</pages>
+    <year>2003</year>
+    <volume>66</volume>
+    <journal>J. Comput. Syst. Sci.</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1016/S0022-0000(02)00028-4</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jcss/jcss66.html#MillsteinHF03</url>
+</article>
+<article mdate="2006-01-17" key="journals/jodl/IoannidisMABDFHKRSW05">
+    <author>Yannis E. Ioannidis</author>
+    <author>David Maier</author>
+    <author>Serge Abiteboul</author>
+    <author>Peter Buneman</author>
+    <author>Susan B. Davidson</author>
+    <author>Edward A. Fox</author>
+    <author>Alon Y. Halevy</author>
+    <author>Craig A. Knoblock</author>
+    <author>Fausto Rabitti</author>
+    <author>Hans-Jrg Schek</author>
+    <author>Gerhard Weikum</author>
+    <title>Digital library information-technology infrastructures.</title>
+    <pages>266-274</pages>
+    <year>2005</year>
+    <volume>5</volume>
+    <journal>Int. J. on Digital Libraries</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.1007/s00799-004-0094-8</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jodl/jodl5.html#IoannidisMABDFHKRSW05</url>
+</article>
+<article mdate="2004-03-31" key="journals/jwe/BrambillaCCFM03">
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Piero Fraternali</author>
+    <author>Ioana Manolescu</author>
+    <title>Specification and Design of Workflow-Driven Hypertexts.</title>
+    <pages>163-182</pages>
+    <year>2003</year>
+    <volume>1</volume>
+    <journal>J. Web Eng.</journal>
+    <number>2</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jwe/jwe1.html#BrambillaCCFM03</url>
+</article>
+<article mdate="2005-07-06" key="journals/jwe/CeriDMN05">
+    <author>Stefano Ceri</author>
+    <author>Peter Dolog</author>
+    <author>Maristella Matera</author>
+    <author>Wolfgang Nejdl</author>
+    <title>Adding Client-Side Adaptation to the Conceptual Design of e-Learning Web Applications.</title>
+    <pages>21-37</pages>
+    <year>2005</year>
+    <volume>4</volume>
+    <journal>J. Web Eng.</journal>
+    <number>1</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jwe/jwe4.html#CeriDMN05</url>
+</article>
+<article mdate="2011-05-26" key="journals/ml/DoanDH03">
+    <author>AnHai Doan</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Learning to Match the Schemas of Data Sources: A Multistrategy Approach.</title>
+    <pages>279-301</pages>
+    <year>2003</year>
+    <volume>50</volume>
+    <journal>Machine Learning</journal>
+    <number>3</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ml/ml50.html#DoanDH03</url>
+    <ee>http://dx.doi.org/10.1023/A:1021765902788</ee>
+</article>
+<article mdate="2006-03-16" key="journals/queue/Halevy05">
+    <author>Alon Y. Halevy</author>
+    <title>Why your data won't mix.</title>
+    <pages>50-58</pages>
+    <year>2005</year>
+    <volume>3</volume>
+    <journal>ACM Queue</journal>
+    <number>8</number>
+    <ee>http://doi.acm.org/10.1145/1103822.1103836</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/queue/queue3.html#Halevy05</url>
+</article>
+<article mdate="2006-02-09" key="journals/sigkdd/DongMH04">
+    <author>Xin Dong</author>
+    <author>Jayant Madhavan</author>
+    <author>Alon Y. Halevy</author>
+    <title>Mining structures for semantics.</title>
+    <pages>53-60</pages>
+    <year>2004</year>
+    <volume>6</volume>
+    <journal>SIGKDD Explorations</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1046456.1046463</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigkdd/sigkdd6.html#DongMH04</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/BernsteinHP00">
+    <author>Philip A. Bernstein</author>
+    <author>Alon Y. Halevy</author>
+    <author>Rachel Pottinger</author>
+    <title>A Vision of Management of Complex Models.</title>
+    <pages>55-63</pages>
+    <year>2000</year>
+    <volume>29</volume>
+    <journal>SIGMOD Record</journal>
+    <number>4</number>
+    <ee>http://doi.acm.org/10.1145/369275.369289</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod29.html#BernsteinHP00</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/BonifatiC00">
+    <ee>http://doi.acm.org/10.1145/344788.344822</ee>
+    <author>Angela Bonifati</author>
+    <author>Stefano Ceri</author>
+    <title>Comparative Analysis of Five XML Query Languages.</title>
+    <pages>68-79</pages>
+    <cdrom>sigmodR/29-1/P068.pdf</cdrom>
+    <year>2000</year>
+    <volume>29</volume>
+    <journal>SIGMOD Record</journal>
+    <number>1</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod29.html#BonifatiC00</url>
+    <cite label="Abi99">conf/pods/Abiteboul99</cite>
+    <cite label="AG*97">...</cite>
+    <cite label="AQ*97">journals/jodl/AbiteboulQMWW97</cite>
+    <cite label="C*99">journals/cn/CeriCDFPT99</cite>
+    <cite label="Cl99a">...</cite>
+    <cite label="Cl99b">...</cite>
+    <cite label="DeR98">...</cite>
+    <cite label="DF*98">www/org/w3/TR/NOTE-xml-ql</cite>
+    <cite label="DF*99">journals/cn/DeutschFFLS99</cite>
+    <cite label="DOM98">...</cite>
+    <cite label="GMW99">conf/webdb/GoldmanMW99</cite>
+    <cite label="LP*99">...</cite>
+    <cite label="Mai98">...</cite>
+    <cite label="Qua98">...</cite>
+    <cite label="RLS98">...</cite>
+    <cite label="Ro99a">...</cite>
+    <cite label="Ro99b">...</cite>
+    <cite label="Ro99c">...</cite>
+    <cite label="SLR98">...</cite>
+    <cite label="Suc99">conf/sigmod/Suciu99</cite>
+    <cite label="XML98">www/org/w3/TR/REC-xml</cite>
+    <cite label="XSL99">...</cite>
+    <cite label="W*98">...</cite>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/CeriKKLOSV00">
+    <author>Stefano Ceri</author>
+    <author>Leonid A. Kalinichenko</author>
+    <author>Masaru Kitsuregawa</author>
+    <author>Hongjun Lu</author>
+    <author>Z. Meral zsoyoglu</author>
+    <author>Richard T. Snodgrass</author>
+    <author>Victor Vianu</author>
+    <title>SIGMOD Sister Societies.</title>
+    <pages>4-15</pages>
+    <cdrom>sigmodR/29-1/P004.pdf</cdrom>
+    <year>2000</year>
+    <volume>29</volume>
+    <journal>SIGMOD Record</journal>
+    <number>1</number>
+    <ee>http://www.acm.org/sigmod/record/issues/0003/sisters.pdf.gz</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod29.html#CeriKKLOSV00</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/DoanHN04">
+    <author>AnHai Doan</author>
+    <author>Alon Y. Halevy</author>
+    <author>Natalya Fridman Noy</author>
+    <title>Semantic Integration Workshop at the 2nd International Semantic Web Conference (ISWC-2003).</title>
+    <pages>138-140</pages>
+    <year>2004</year>
+    <volume>33</volume>
+    <journal>SIGMOD Record</journal>
+    <number>1</number>
+    <ee>http://www.acm.org/sigmod/record/issues/0403/R3.Semantic_integration_03.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod33.html#DoanHN04</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/DoanNH04">
+    <author>AnHai Doan</author>
+    <author>Natalya Fridman Noy</author>
+    <author>Alon Y. Halevy</author>
+    <title>Introduction to the Special Issue on Semantic Integration.</title>
+    <pages>11-13</pages>
+    <year>2004</year>
+    <volume>33</volume>
+    <journal>SIGMOD Record</journal>
+    <number>4</number>
+    <ee>http://doi.acm.org/10.1145/1041410.1041412</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod33.html#DoanNH04</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/FranklinHM05">
+    <author>Michael J. Franklin</author>
+    <author>Alon Y. Halevy</author>
+    <author>David Maier</author>
+    <title>From databases to dataspaces: a new abstraction for information management.</title>
+    <pages>27-33</pages>
+    <year>2005</year>
+    <volume>34</volume>
+    <journal>SIGMOD Record</journal>
+    <number>4</number>
+    <ee>http://doi.acm.org/10.1145/1107499.1107502</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod34.html#FranklinHM05</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/Halevy00">
+    <author>Alon Y. Halevy</author>
+    <title>Theory of Answering Queries Using Views.</title>
+    <pages>40-47</pages>
+    <year>2000</year>
+    <volume>29</volume>
+    <journal>SIGMOD Record</journal>
+    <number>4</number>
+    <ee>http://doi.acm.org/10.1145/369275.369284</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod29.html#Halevy00</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/Halevy03">
+    <author>Alon Y. Halevy</author>
+    <title>Learning about data integration challenges from day one.</title>
+    <pages>16-17</pages>
+    <year>2003</year>
+    <volume>32</volume>
+    <journal>SIGMOD Record</journal>
+    <number>3</number>
+    <ee>http://doi.acm.org/10.1145/945721.945724</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod32.html#Halevy03</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/RossCGLLM01">
+    <author>Kenneth A. Ross</author>
+    <author>Stefano Ceri</author>
+    <author>Luis Gravano</author>
+    <author>Per-ke Larson</author>
+    <author>Leonid Libkin</author>
+    <author>Tova Milo</author>
+    <title>Reminiscences on Influential Papers.</title>
+    <pages>55-57</pages>
+    <year>2001</year>
+    <volume>30</volume>
+    <journal>SIGMOD Record</journal>
+    <number>1</number>
+    <ee>http://doi.acm.org/10.1145/373626.604262</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod30.html#RossCGLLM01</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/TatarinovIMHSDDKMM03">
+    <author>Igor Tatarinov</author>
+    <author>Zachary G. Ives</author>
+    <author>Jayant Madhavan</author>
+    <author>Alon Y. Halevy</author>
+    <author>Dan Suciu</author>
+    <author>Nilesh N. Dalvi</author>
+    <author>Xin Dong</author>
+    <author>Yana Kadiyska</author>
+    <author>Gerome Miklau</author>
+    <author>Peter Mork</author>
+    <title>The Piazza peer data management project.</title>
+    <pages>47-52</pages>
+    <year>2003</year>
+    <volume>32</volume>
+    <journal>SIGMOD Record</journal>
+    <number>3</number>
+    <ee>http://doi.acm.org/10.1145/945721.945732</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod32.html#TatarinovIMHSDDKMM03</url>
+</article>
+<article mdate="2012-04-14" key="journals/spe/MateraMCF03">
+    <author>Maristella Matera</author>
+    <author>Andrea Maurino</author>
+    <author>Stefano Ceri</author>
+    <author>Piero Fraternali</author>
+    <title>Model-driven design of collaborative Web applications.</title>
+    <pages>701-732</pages>
+    <year>2003</year>
+    <volume>33</volume>
+    <journal>Softw., Pract. Exper.</journal>
+    <number>8</number>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/spe/spe33.html#MateraMCF03</url>
+    <ee>http://dx.doi.org/10.1002/spe.523</ee>
+</article>
+<article mdate="2011-11-02" key="journals/tkde/CeriGPS03">
+    <author>Stefano Ceri</author>
+    <author>Claudio Gennaro</author>
+    <author>Stefano Paraboschi</author>
+    <author>Giuseppe Serazzi</author>
+    <title>Effective Scheduling of Detached Rules in Active Databases.</title>
+    <pages>2-13</pages>
+    <year>2003</year>
+    <volume>15</volume>
+    <journal>IEEE Trans. Knowl. Data Eng.</journal>
+    <number>1</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2003.1161578</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tkde/tkde15.html#CeriGPS03</url>
+</article>
+<article mdate="2011-10-26" key="journals/tkde/HalevyIMMST04">
+    <author>Alon Y. Halevy</author>
+    <author>Zachary G. Ives</author>
+    <author>Jayant Madhavan</author>
+    <author>Peter Mork</author>
+    <author>Dan Suciu</author>
+    <author>Igor Tatarinov</author>
+    <title>The Piazza Peer Data Management System.</title>
+    <pages>787-798</pages>
+    <year>2004</year>
+    <volume>16</volume>
+    <journal>IEEE Trans. Knowl. Data Eng.</journal>
+    <number>7</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.1318562</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tkde/tkde16.html#HalevyIMMST04</url>
+</article>
+<article mdate="2006-02-09" key="journals/tods/BragaCC05">
+    <author>Daniele Braga</author>
+    <author>Alessandro Campi</author>
+    <author>Stefano Ceri</author>
+    <title>
+        <i>XQBE</i> (<i>XQ</i>uery <i>B</i>y <i>E</i>xample): A visual interface to the standard XML query language.</title>
+    <pages>398-443</pages>
+    <year>2005</year>
+    <volume>30</volume>
+    <journal>ACM Trans. Database Syst.</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1071610.1071613</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tods/tods30.html#BragaCC05</url>
+</article>
+<article mdate="2006-04-06" key="journals/toit/ManolescuBCCF05">
+    <author>Ioana Manolescu</author>
+    <author>Marco Brambilla</author>
+    <author>Stefano Ceri</author>
+    <author>Sara Comai</author>
+    <author>Piero Fraternali</author>
+    <title>Model-driven design and deployment of service-enabled web applications.</title>
+    <pages>439-479</pages>
+    <year>2005</year>
+    <volume>5</volume>
+    <journal>ACM Trans. Internet Techn.</journal>
+    <number>3</number>
+    <ee>http://doi.acm.org/10.1145/1084772.1084773</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/toit/toit5.html#ManolescuBCCF05</url>
+</article>
+<article mdate="2003-11-26" key="journals/tosem/BonifatiCCFP01">
+    <author>Angela Bonifati</author>
+    <author>Fabiano Cattaneo</author>
+    <author>Stefano Ceri</author>
+    <author>Alfonso Fuggetta</author>
+    <author>Stefano Paraboschi</author>
+    <title>Designing data marts for data warehouses.</title>
+    <pages>452-483</pages>
+    <year>2001</year>
+    <volume>10</volume>
+    <journal>ACM Trans. Softw. Eng. Methodol.</journal>
+    <number>4</number>
+    <ee>http://doi.acm.org/10.1145/384189.384190</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tosem/tosem10.html#BonifatiCCFP01</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/ApersCS02">
+    <author>Peter M. G. Apers</author>
+    <author>Stefano Ceri</author>
+    <author>Richard T. Snodgrass</author>
+    <title>Editorial.</title>
+    <pages>177-178</pages>
+    <year>2002</year>
+    <volume>11</volume>
+    <journal>VLDB J.</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1007/s00778-002-0075-8</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb11.html#ApersCS02</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/BonifatiCP01">
+    <author>Angela Bonifati</author>
+    <author>Stefano Ceri</author>
+    <author>Stefano Paraboschi</author>
+    <title>Active rules for XML: A new paradigm for E-services.</title>
+    <pages>39-47</pages>
+    <year>2001</year>
+    <volume>10</volume>
+    <journal>VLDB J.</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1007/s007780100039</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb10.html#BonifatiCP01</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/ChirkovaHS02">
+    <author>Rada Chirkova</author>
+    <author>Alon Y. Halevy</author>
+    <author>Dan Suciu</author>
+    <title>A formal perspective on the view selection problem.</title>
+    <pages>216-237</pages>
+    <year>2002</year>
+    <volume>11</volume>
+    <journal>VLDB J.</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1007/s00778-002-0070-0</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb11.html#ChirkovaHS02</url>
+</article>
+<article mdate="2004-01-29" key="journals/vldb/DoanMDDH03">
+    <author>AnHai Doan</author>
+    <author>Jayant Madhavan</author>
+    <author>Robin Dhamankar</author>
+    <author>Pedro Domingos</author>
+    <author>Alon Y. Halevy</author>
+    <title>Learning to match ontologies on the Semantic Web.</title>
+    <pages>303-319</pages>
+    <year>2003</year>
+    <volume>12</volume>
+    <journal>VLDB J.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.1007/s00778-003-0104-2</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb12.html#DoanMDDH03</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/Halevy01">
+    <author>Alon Y. Halevy</author>
+    <title>Answering queries using views: A survey.</title>
+    <pages>270-294</pages>
+    <year>2001</year>
+    <volume>10</volume>
+    <journal>VLDB J.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.1007/s007780100054</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb10.html#Halevy01</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/Halevy02">
+    <author>Alon Y. Halevy</author>
+    <title>Guest Editorial.</title>
+    <pages>273</pages>
+    <year>2002</year>
+    <volume>11</volume>
+    <journal>VLDB J.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.1007/s00778-002-0082-9</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb11.html#Halevy02</url>
+</article>
+<article mdate="2008-09-12" key="journals/vldb/HalevyIST05">
+    <author>Alon Y. Halevy</author>
+    <author>Zachary G. Ives</author>
+    <author>Dan Suciu</author>
+    <author>Igor Tatarinov</author>
+    <title>Schema mediation for large-scale semantic data sharing.</title>
+    <pages>68-83</pages>
+    <year>2005</year>
+    <volume>14</volume>
+    <journal>VLDB J.</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1007/s00778-003-0116-y</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb14.html#HalevyIST05</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/IvesHW02">
+    <author>Zachary G. Ives</author>
+    <author>Alon Y. Halevy</author>
+    <author>Daniel S. Weld</author>
+    <title>An XML query engine for network-bound data.</title>
+    <pages>380-402</pages>
+    <year>2002</year>
+    <volume>11</volume>
+    <journal>VLDB J.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.1007/s00778-002-0078-5</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb11.html#IvesHW02</url>
+</article>
+<article mdate="2011-06-06" key="journals/vldb/PottingerH01">
+    <author>Rachel Pottinger</author>
+    <author>Alon Y. Halevy</author>
+    <title>MiniCon: A scalable algorithm for answering queries using views.</title>
+    <pages>182-198</pages>
+    <year>2001</year>
+    <volume>10</volume>
+    <journal>VLDB J.</journal>
+    <number>2-3</number>
+    <ee>http://dx.doi.org/10.1007/s007780100048</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb10.html#PottingerH01</url>
+</article>
+<article mdate="2005-01-05" key="journals/ws/IvesHMT04">
+    <author>Zachary G. Ives</author>
+    <author>Alon Y. Halevy</author>
+    <author>Peter Mork</author>
+    <author>Igor Tatarinov</author>
+    <title>Piazza: mediation and integration infrastructure for Semantic Web data.</title>
+    <pages>155-175</pages>
+    <year>2004</year>
+    <volume>1</volume>
+    <journal>J. Web Sem.</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1016/j.websem.2003.11.003</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ws/ws1.html#IvesHMT04</url>
+</article>
+<article mdate="2005-01-05" key="journals/ws/McDowellEH04">
+    <author>Luke McDowell</author>
+    <author>Oren Etzioni</author>
+    <author>Alon Y. Halevy</author>
+    <title>Semantic email: theory and applications.</title>
+    <pages>153-183</pages>
+    <year>2004</year>
+    <volume>2</volume>
+    <journal>J. Web Sem.</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1016/j.websem.2004.09.001</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ws/ws2.html#McDowellEH04</url>
+</article>
+</dblp>

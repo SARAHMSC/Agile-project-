@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}{{ args.title }}{% endblock %}
+{% block content %}
+
+<h1>{{ args.title }}</h1>
+
+<div id="container" style="width:100%; height: 400px; margin: 0 auto;overflow:scroll"></div>
+
+<!-- The addition of the below class is required for the sorting function 
+(defined in base.html) -->
+<button onclick="showChart({{args.startCol}},'toggle')" style="align:right">Show / Hide Graph</button>
+<table class="sortable" id="datatable">
+  <thead onclick="showChart({{args.startCol}},'refresh')">
+    <tr>
+    {% for column in args.data[0] %}
+      <th>{{ column }}</th>
+    {% endfor %}
+    </tr>
+  </thead>
+
+  <tbody>
+  {% for row in args.data[1] %}
+    <tr>
+    {% for data_item in row %}
+      <td>{{ data_item }}</td>
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

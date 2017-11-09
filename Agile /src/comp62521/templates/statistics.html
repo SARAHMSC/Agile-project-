@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{% block content %}
+<ul>
+  <li><a href="/statisticsdetails/publication_summary">Publication Summary</a></li>
+  <li><a href="/statisticsdetails/publication_author">Publication by Author</a></li>
+  <li><a href="/statisticsdetails/publication_year">Publication by Year</a></li>
+  <li><a href="/statisticsdetails/author_year">Author by Year</a></li>
+  <li><a href="/averages">Averaged Year Data</a></li>
+  <li><a href="/coauthors">Co-Authors</a></li>
+  <li><a href="/paperfirstauthor">First Paper Author (Multi Column Sort)</a></li>
+  <li><a href="/paperlastauthor">Last Paper Author (Multi Column Sort)</a></li>  
+  <li><a href="/paperfirstlastauthor">First and Last Paper Author</a></li>
+  <li><a href="/paperfirstlastsoloauthor">First, Last and Solo Paper Author</a></li>  
+  <li><a href="/authorsearch">Author Search</a></li>
+  <li><a href="/paperfirstlastsoloauthorbypublicationtype">First, Last and Solo Paper Author by Publication Type</a></li>  
+  <li><a href="/authorsearch2">Author Search 2</a></li>
+  <li><a href="/separation">Degrees of Separation</a></li>
+</ul>
+{% endblock %}

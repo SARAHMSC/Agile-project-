@@ -1,0 +1,2954 @@
+<dblp>
+<incollection mdate="2011-09-22" key="books/ms/4paradigm2009/GobleR09">
+    <author>Carole A. Goble</author>
+    <author>David De Roure</author>
+    <title>The impact of workflow tools on data-centric research.</title>
+    <pages>137-145</pages>
+    <year>2009</year>
+    <booktitle>The Fourth Paradigm</booktitle>
+    <ee>http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part3_goble_deroure.pdf</ee>
+    <crossref>books/ms/4paradigm09</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/books/collections/4paradigm2009.html#GobleR09</url>
+</incollection>
+<inproceedings mdate="2012-06-08" key="conf/3dui/SherstyukVJ08">
+    <author>Andrei Sherstyuk</author>
+    <author>Dale Vincent</author>
+    <author>Caroline Jay</author>
+    <title>Poster: Sliding Viewport for Head Mounted Displays in Interactive Environments.</title>
+    <pages>135-136</pages>
+    <year>2008</year>
+    <booktitle>3DUI</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/3DUI.2008.4476604</ee>
+    <crossref>conf/3dui/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/3dui/3dui2008.html#SherstyukVJ08</url>
+</inproceedings>
+<inproceedings mdate="2007-01-09" key="conf/IEEEscc/BelhajjameE06">
+    <author>Khalid Belhajjame</author>
+    <author>Suzanne M. Embury</author>
+    <title>A Model-Driven Approach to Service Composition in Virtual Enterprises.</title>
+    <pages>214-221</pages>
+    <year>2006</year>
+    <crossref>conf/IEEEscc/2006</crossref>
+    <booktitle>IEEE SCC</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/SCC.2006.11</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/IEEEscc/scc2006.html#BelhajjameE06</url>
+</inproceedings>
+<inproceedings mdate="2012-03-19" key="conf/aaai/HullZBHSS06">
+    <author>Duncan Hull</author>
+    <author>Evgeny Zolin</author>
+    <author>Andrey Bovykin</author>
+    <author>Ian Horrocks</author>
+    <author>Ulrike Sattler</author>
+    <author>Robert Stevens</author>
+    <title>Deciding Semantic Matching of Stateless Services.</title>
+    <year>2006</year>
+    <crossref>conf/aaai/2006</crossref>
+    <booktitle>AAAI</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/aaai/aaai2006.html#HullZBHSS06</url>
+    <ee>http://www.aaai.org/Library/AAAI/2006/aaai06-207.php</ee>
+    <pages>1319-1324</pages>
+</inproceedings>
+<inproceedings mdate="2006-06-27" key="conf/ah/BechhoferYHG06">
+    <author>Sean Bechhofer</author>
+    <author>Yeliz Yesilada</author>
+    <author>Bernard Horan</author>
+    <author>Carole A. Goble</author>
+    <title>Knowledge-Driven Hyperlinks: Linking in the Wild.</title>
+    <pages>1-10</pages>
+    <year>2006</year>
+    <crossref>conf/ah/2006</crossref>
+    <booktitle>AH</booktitle>
+    <ee>http://dx.doi.org/10.1007/11768012_1</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ah/ah2006.html#BechhoferYHG06</url>
+</inproceedings>
+<inproceedings mdate="2010-11-22" key="conf/assets/BrajnikYH10">
+    <author>Giorgio Brajnik</author>
+    <author>Yeliz Yesilada</author>
+    <author>Simon Harper</author>
+    <title>Testability and validity of WCAG 2.0: the expertise effect.</title>
+    <pages>43-50</pages>
+    <year>2010</year>
+    <booktitle>ASSETS</booktitle>
+    <ee>http://doi.acm.org/10.1145/1878803.1878813</ee>
+    <crossref>conf/assets/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/assets/assets2010.html#BrajnikYH10</url>
+</inproceedings>
+<inproceedings mdate="2007-02-05" key="conf/assets/HarperBL06">
+    <author>Simon Harper</author>
+    <author>Sean Bechhofer</author>
+    <author>Darren Lunn</author>
+    <title>SADIe: : transcoding based on CSS.</title>
+    <pages>259-260</pages>
+    <year>2006</year>
+    <crossref>conf/assets/2006</crossref>
+    <booktitle>ASSETS</booktitle>
+    <ee>http://doi.acm.org/10.1145/1168987.1169044</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/assets/assets2006.html#HarperBL06</url>
+</inproceedings>
+<inproceedings mdate="2008-10-23" key="conf/assets/LunnBH08">
+    <author>Darren Lunn</author>
+    <author>Sean Bechhofer</author>
+    <author>Simon Harper</author>
+    <title>A user evaluation of the SADIe transcoder.</title>
+    <pages>137-144</pages>
+    <year>2008</year>
+    <booktitle>ASSETS</booktitle>
+    <ee>http://doi.acm.org/10.1145/1414471.1414498</ee>
+    <crossref>conf/assets/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/assets/assets2008.html#LunnBH08</url>
+</inproceedings>
+<inproceedings mdate="2008-10-23" key="conf/assets/MichailidouHB08">
+    <author>Eleni Michailidou</author>
+    <author>Simon Harper</author>
+    <author>Sean Bechhofer</author>
+    <title>Investigating sighted users' browsing behaviour to assist web accessibility.</title>
+    <pages>121-128</pages>
+    <year>2008</year>
+    <booktitle>ASSETS</booktitle>
+    <ee>http://doi.acm.org/10.1145/1414471.1414495</ee>
+    <crossref>conf/assets/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/assets/assets2008.html#MichailidouHB08</url>
+</inproceedings>
+<inproceedings mdate="2009-10-30" key="conf/assets/YesiladaBH09">
+    <author>Yeliz Yesilada</author>
+    <author>Giorgio Brajnik</author>
+    <author>Simon Harper</author>
+    <title>How much does expertise matter?: a barrier walkthrough study with experts and non-experts.</title>
+    <pages>203-210</pages>
+    <year>2009</year>
+    <booktitle>ASSETS</booktitle>
+    <ee>http://doi.acm.org/10.1145/1639642.1639678</ee>
+    <crossref>conf/assets/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/assets/assets2009.html#YesiladaBH09</url>
+</inproceedings>
+<inproceedings mdate="2007-03-14" key="conf/aswc/WangSSR06">
+    <author>Yimin Wang</author>
+    <author>York Sure</author>
+    <author>Robert Stevens</author>
+    <author>Alan L. Rector</author>
+    <title>Knowledge Elicitation Plug-In for Protg: Card Sorting and Laddering.</title>
+    <pages>552-565</pages>
+    <year>2006</year>
+    <crossref>conf/aswc/2006</crossref>
+    <booktitle>ASWC</booktitle>
+    <ee>http://dx.doi.org/10.1007/11836025_53</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/aswc/aswc2006.html#WangSSR06</url>
+</inproceedings>
+<inproceedings mdate="2010-08-25" key="conf/bcshci/EgerBSD07">
+    <author>Nicola Eger</author>
+    <author>Linden J. Ball</author>
+    <author>Robert Stevens</author>
+    <author>Jon Dodd</author>
+    <title>Cueing retrospective verbal reports in usability testing through eye-movement replay.</title>
+    <pages>129-137</pages>
+    <year>2007</year>
+    <booktitle>BCS HCI (1)</booktitle>
+    <ee>http://doi.acm.org/10.1145/1531294.1531312</ee>
+    <crossref>conf/bcshci/2007-1</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/bcshci/bcshci2007-1.html#EgerBSD07</url>
+</inproceedings>
+<inproceedings mdate="2008-07-04" key="conf/bncod/BrenninkmeijerGFP07">
+    <author>Christian Y. A. Brenninkmeijer</author>
+    <author>Ixent Galpin</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Norman W. Paton</author>
+    <title>A Semantics for a Query Language over Sensors, Streams and Relations.</title>
+    <pages>87-99</pages>
+    <year>2008</year>
+    <booktitle>BNCOD</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-70504-8_9</ee>
+    <crossref>conf/bncod/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/bncod/bncod2008.html#BrenninkmeijerGFP07</url>
+</inproceedings>
+<inproceedings mdate="2009-07-04" key="conf/bncod/HedelerBFEP09">
+    <author>Cornelia Hedeler</author>
+    <author>Khalid Belhajjame</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Suzanne M. Embury</author>
+    <author>Norman W. Paton</author>
+    <title>Dimensions of Dataspaces.</title>
+    <pages>55-66</pages>
+    <year>2009</year>
+    <booktitle>BNCOD</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-02843-4_8</ee>
+    <crossref>conf/bncod/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/bncod/bncod2009.html#HedelerBFEP09</url>
+</inproceedings>
+<inproceedings mdate="2007-09-03" key="conf/bncod/Paton07">
+    <author>Norman W. Paton</author>
+    <title>Automation Everywhere: Autonomics and Data Management.</title>
+    <pages>3-12</pages>
+    <year>2007</year>
+    <crossref>conf/bncod/2007</crossref>
+    <booktitle>BNCOD</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-73390-4_2</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/bncod/bncod2007.html#Paton07</url>
+</inproceedings>
+<inproceedings mdate="2010-04-24" key="conf/caise/BelhajjameB09">
+    <author>Khalid Belhajjame</author>
+    <author>Marco Brambilla</author>
+    <title>Ontology-Based Description and Discovery of Business Processes.</title>
+    <pages>85-98</pages>
+    <year>2009</year>
+    <booktitle>BMMDS/EMMSAD</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-01862-6_8</ee>
+    <crossref>conf/caise/2009bpmds</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/caise/bpmds2009.html#BelhajjameB09</url>
+</inproceedings>
+<inproceedings mdate="2009-06-09" key="conf/caise/MaoBPF09">
+    <author>Lu Mao</author>
+    <author>Khalid Belhajjame</author>
+    <author>Norman W. Paton</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <title>Defining and Using Schematic Correspondences for Automatically Generating Schema Mappings.</title>
+    <pages>79-93</pages>
+    <year>2009</year>
+    <booktitle>CAiSE</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-02144-2_11</ee>
+    <crossref>conf/caise/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/caise/caise2009.html#MaoBPF09</url>
+</inproceedings>
+<inproceedings mdate="2008-06-24" key="conf/cbms/DialloKJJS08">
+    <author>Gayo Diallo</author>
+    <author>Patty Kostkova</author>
+    <author>Gawesh Jawaheer</author>
+    <author>Simon Jupp</author>
+    <author>Robert Stevens</author>
+    <title>Process of Building a Vocabulary for the Infection Domain.</title>
+    <pages>308-313</pages>
+    <year>2008</year>
+    <booktitle>CBMS</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2008.44</ee>
+    <crossref>conf/cbms/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/cbms/cbms2008.html#DialloKJJS08</url>
+</inproceedings>
+<inproceedings mdate="2010-04-29" key="conf/cbms/MaheshwariGMM09">
+    <author>Ketan Maheshwari</author>
+    <author>Carole A. Goble</author>
+    <author>Paolo Missier</author>
+    <author>Johan Montagnat</author>
+    <title>Medical image processing workflow support on the EGEE grid with taverna.</title>
+    <pages>1-7</pages>
+    <year>2009</year>
+    <booktitle>CBMS</booktitle>
+    <ee>http://dx.doi.org/10.1109/CBMS.2009.5255332</ee>
+    <crossref>conf/cbms/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/cbms/cbms2009.html#MaheshwariGMM09</url>
+</inproceedings>
+<inproceedings mdate="2006-09-22" key="conf/cbms/PreeceJMESB06">
+    <author>Alun D. Preece</author>
+    <author>Binling Jin</author>
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>David Stead</author>
+    <author>Al Brown</author>
+    <title>Towards the Management of Information Quality in Proteomics.</title>
+    <pages>936-940</pages>
+    <year>2006</year>
+    <crossref>conf/cbms/2006</crossref>
+    <booktitle>CBMS</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2006.160</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/cbms/cbms2006.html#PreeceJMESB06</url>
+</inproceedings>
+<inproceedings mdate="2008-05-21" key="conf/ccgrid/BelhajjameWCOTWG08">
+    <author>Khalid Belhajjame</author>
+    <author>Katy Wolstencroft</author>
+    <author>scar Corcho</author>
+    <author>Tom Oinn</author>
+    <author>Franck Tanoh</author>
+    <author>Alan Williams</author>
+    <author>Carole A. Goble</author>
+    <title>Metadata Management in the Taverna Workflow System.</title>
+    <pages>651-656</pages>
+    <year>2008</year>
+    <booktitle>CCGRID</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/CCGRID.2008.17</ee>
+    <crossref>conf/ccgrid/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ccgrid/ccgrid2008.html#BelhajjameWCOTWG08</url>
+</inproceedings>
+<inproceedings mdate="2010-01-05" key="conf/ccgrid/LeePSF09">
+    <author>Kevin Lee</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <title>Utility Driven Adaptive Work?ow Execution.</title>
+    <pages>220-227</pages>
+    <year>2009</year>
+    <booktitle>CCGRID</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/CCGRID.2009.15</ee>
+    <crossref>conf/ccgrid/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ccgrid/ccgrid2009.html#LeePSF09</url>
+</inproceedings>
+<inproceedings mdate="2010-08-22" key="conf/ccgrid/PirroTTMG10">
+    <author>Giuseppe Pirr</author>
+    <author>Paolo Trunfio</author>
+    <author>Domenico Talia</author>
+    <author>Paolo Missier</author>
+    <author>Carole A. Goble</author>
+    <title>ERGOT: A Semantic-Based System for Service Discovery in Distributed Infrastructures.</title>
+    <pages>263-272</pages>
+    <year>2010</year>
+    <booktitle>CCGRID</booktitle>
+    <ee>http://dx.doi.org/10.1109/CCGRID.2010.24</ee>
+    <crossref>conf/ccgrid/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ccgrid/ccgrid2010.html#PirroTTMG10</url>
+</inproceedings>
+<inproceedings mdate="2007-08-19" key="conf/compsac/LinEW07">
+    <author>Liwen Lin</author>
+    <author>Suzanne M. Embury</author>
+    <author>Brian Warboys</author>
+    <title>Tool Support to Implementing Business Rules in Database Applications.</title>
+    <pages>157-162</pages>
+    <year>2007</year>
+    <crossref>conf/compsac/2007</crossref>
+    <booktitle>COMPSAC (1)</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2007.213</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/compsac/compsac2007-1.html#LinEW07</url>
+</inproceedings>
+<inproceedings mdate="2006-07-17" key="conf/dils/BelhajjameEP06">
+    <author>Khalid Belhajjame</author>
+    <author>Suzanne M. Embury</author>
+    <author>Norman W. Paton</author>
+    <title>On Characterising and Identifying Mismatches in Scientific Workflows.</title>
+    <pages>240-247</pages>
+    <year>2006</year>
+    <crossref>conf/dils/2006</crossref>
+    <booktitle>DILS</booktitle>
+    <ee>http://dx.doi.org/10.1007/11799511_22</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/dils/dils2006.html#BelhajjameEP06</url>
+</inproceedings>
+<inproceedings mdate="2009-10-30" key="conf/dils/MissierEHGPB07">
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>Cornelia Hedeler</author>
+    <author>R. Mark Greenwood</author>
+    <author>Joanne Pennock</author>
+    <author>Andy Brass</author>
+    <title>Accelerating Disease Gene Identification Through Integrated SNP Data Analysis.</title>
+    <pages>215-230</pages>
+    <year>2007</year>
+    <crossref>conf/dils/2007</crossref>
+    <booktitle>DILS</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-73255-6_18</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/dils/dils2007.html#MissierEHGPB07</url>
+</inproceedings>
+<inproceedings mdate="2008-06-19" key="conf/dils/Paton08">
+    <author>Norman W. Paton</author>
+    <title>Data Integration in the Life Sciences: Fun, Findings and Frustrations.</title>
+    <pages>8-10</pages>
+    <year>2008</year>
+    <booktitle>DILS</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-69828-9_3</ee>
+    <crossref>conf/dils/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/dils/dils2008.html#Paton08</url>
+</inproceedings>
+<inproceedings mdate="2010-08-23" key="conf/dils/SwainstonJLSMP10">
+    <author>Neil Swainston</author>
+    <author>Daniel Jameson</author>
+    <author>Peter Li</author>
+    <author>Irena Spasic</author>
+    <author>Pedro Mendes</author>
+    <author>Norman W. Paton</author>
+    <title>Integrative Information Management for Systems Biology.</title>
+    <pages>164-178</pages>
+    <year>2010</year>
+    <booktitle>DILS</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-15120-0_13</ee>
+    <crossref>conf/dils/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/dils/dils2010.html#SwainstonJLSMP10</url>
+</inproceedings>
+<inproceedings mdate="2007-12-17" key="conf/dils/ZamboulisFBSJMPHEP06">
+    <author>Lucas Zamboulis</author>
+    <author>Hao Fan</author>
+    <author>Khalid Belhajjame</author>
+    <author>Jennifer A. Siepen</author>
+    <author>Andrew C. Jones</author>
+    <author>Nigel J. Martin</author>
+    <author>Alexandra Poulovassilis</author>
+    <author>Simon J. Hubbard</author>
+    <author>Suzanne M. Embury</author>
+    <author>Norman W. Paton</author>
+    <title>Data Access and Integration in the ISPIDER Proteomics Grid.</title>
+    <pages>3-18</pages>
+    <year>2006</year>
+    <crossref>conf/dils/2006</crossref>
+    <booktitle>DILS</booktitle>
+    <ee>http://dx.doi.org/10.1007/11799511_3</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/dils/dils2006.html#ZamboulisFBSJMPHEP06</url>
+</inproceedings>
+<inproceedings mdate="2009-09-09" key="conf/dmsn/BrenninkmeijerGFP09">
+    <author>Christian Y. A. Brenninkmeijer</author>
+    <author>Ixent Galpin</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Norman W. Paton</author>
+    <title>Validated cost models for sensor network queries.</title>
+    <year>2009</year>
+    <booktitle>DMSN</booktitle>
+    <ee>http://doi.acm.org/10.1145/1594187.1594198</ee>
+    <crossref>conf/dmsn/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/dmsn/dmsn2009.html#BrenninkmeijerGFP09</url>
+</inproceedings>
+<inproceedings mdate="2011-08-30" key="conf/eScience/BechhoferABBCCRDDGGMMONS10">
+    <author>Sean Bechhofer</author>
+    <author>John D. Ainsworth</author>
+    <author>Jiten Bhagat</author>
+    <author>Iain E. Buchan</author>
+    <author>Philip A. Couch</author>
+    <author>Don Cruickshank</author>
+    <author>David De Roure</author>
+    <author>Mark Delderfield</author>
+    <author>Ian Dunlop</author>
+    <author>Matthew Gamble</author>
+    <author>Carole A. Goble</author>
+    <author>Danius T. Michaelides</author>
+    <author>Paolo Missier</author>
+    <author>Stuart Owen</author>
+    <author>David R. Newman</author>
+    <author>Shoaib Sufi</author>
+    <title>Why Linked Data is Not Enough for Scientists.</title>
+    <pages>300-307</pages>
+    <year>2010</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2010.21</ee>
+    <crossref>conf/eScience/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2010.html#BechhoferABBCCRDDGGMMONS10</url>
+</inproceedings>
+<inproceedings mdate="2008-07-14" key="conf/eScience/Belhajjame07">
+    <author>Khalid Belhajjame</author>
+    <title>Semantic Replaceability of eScience Web Services.</title>
+    <pages>449-456</pages>
+    <year>2007</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/E-SCIENCE.2007.67</ee>
+    <crossref>conf/eScience/2007</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2007.html#Belhajjame07</url>
+</inproceedings>
+<inproceedings mdate="2008-07-14" key="conf/eScience/GibsonGWOG07">
+    <author>Andrew Gibson</author>
+    <author>Matthew Gamble</author>
+    <author>Katy Wolstencroft</author>
+    <author>Tom Oinn</author>
+    <author>Carole A. Goble</author>
+    <title>The Data Playground: An Intuitive Workflow Specification Environment.</title>
+    <pages>59-68</pages>
+    <year>2007</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/E-SCIENCE.2007.72</ee>
+    <crossref>conf/eScience/2007</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2007.html#GibsonGWOG07</url>
+</inproceedings>
+<inproceedings mdate="2007-10-24" key="conf/eScience/NenadicZCG06">
+    <author>Aleksandra Nenadic</author>
+    <author>Ning Zhang</author>
+    <author>Jay Chin</author>
+    <author>Carole A. Goble</author>
+    <title>FAME: Adding Multi-Level Authentication to Shibboleth.</title>
+    <pages>157</pages>
+    <year>2006</year>
+    <crossref>conf/eScience/2006</crossref>
+    <booktitle>e-Science</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/E-SCIENCE.2006.67</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2006.html#NenadicZCG06</url>
+</inproceedings>
+<inproceedings mdate="2011-08-30" key="conf/eScience/RoureGABBCFKMMNRRWZZ10">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <author>Sergejs Aleksejevs</author>
+    <author>Sean Bechhofer</author>
+    <author>Jiten Bhagat</author>
+    <author>Don Cruickshank</author>
+    <author>Paul Fisher</author>
+    <author>Nandkumar Kollara</author>
+    <author>Danius T. Michaelides</author>
+    <author>Paolo Missier</author>
+    <author>David R. Newman</author>
+    <author>Marcus Ramsden</author>
+    <author>Marco Roos</author>
+    <author>Katy Wolstencroft</author>
+    <author>Ed Zaluska</author>
+    <author>Jun Zhao</author>
+    <title>The Evolution of myExperiment.</title>
+    <pages>153-160</pages>
+    <year>2010</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2010.59</ee>
+    <crossref>conf/eScience/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2010.html#RoureGABBCFKMMNRRWZZ10</url>
+</inproceedings>
+<inproceedings mdate="2011-08-29" key="conf/eScience/RoureGBCGMN08">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <author>Jiten Bhagat</author>
+    <author>Don Cruickshank</author>
+    <author>Antoon Goderis</author>
+    <author>Danius T. Michaelides</author>
+    <author>David R. Newman</author>
+    <title>myExperiment: Defining the Social Virtual Research Environment.</title>
+    <pages>182-189</pages>
+    <year>2008</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2008.86</ee>
+    <crossref>conf/eScience/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2008.html#RoureGBCGMN08</url>
+</inproceedings>
+<inproceedings mdate="2008-07-14" key="conf/eScience/RoureGS07">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <title>Designing the myExperiment Virtual Research Environment for the Social Sharing of Workflows.</title>
+    <pages>603-610</pages>
+    <year>2007</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/E-SCIENCE.2007.29</ee>
+    <crossref>conf/eScience/2007</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2007.html#RoureGS07</url>
+</inproceedings>
+<inproceedings mdate="2008-07-14" key="conf/eScience/TuriMGRO07">
+    <author>Daniele Turi</author>
+    <author>Paolo Missier</author>
+    <author>Carole A. Goble</author>
+    <author>David De Roure</author>
+    <author>Tom Oinn</author>
+    <title>Taverna Workflows: Syntax and Semantics.</title>
+    <pages>441-448</pages>
+    <year>2007</year>
+    <booktitle>eScience</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/E-SCIENCE.2007.71</ee>
+    <crossref>conf/eScience/2007</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/eScience/eScience2007.html#TuriMGRO07</url>
+</inproceedings>
+<inproceedings mdate="2010-03-18" key="conf/edbt/BelhajjamePEFH10">
+    <author>Khalid Belhajjame</author>
+    <author>Norman W. Paton</author>
+    <author>Suzanne M. Embury</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Cornelia Hedeler</author>
+    <title>Feedback-based annotation, selection and refinement of schema mappings for dataspaces.</title>
+    <pages>573-584</pages>
+    <year>2010</year>
+    <booktitle>EDBT</booktitle>
+    <ee>http://doi.acm.org/10.1145/1739041.1739110</ee>
+    <crossref>conf/edbt/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbt/edbt2010.html#BelhajjamePEFH10</url>
+</inproceedings>
+<inproceedings mdate="2010-03-18" key="conf/edbt/EurviriyanukulPFL10">
+    <author>Kwanchai Eurviriyanukul</author>
+    <author>Norman W. Paton</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Steven J. Lynden</author>
+    <title>Adaptive join processing in pipelined plans.</title>
+    <pages>183-194</pages>
+    <year>2010</year>
+    <booktitle>EDBT</booktitle>
+    <ee>http://doi.acm.org/10.1145/1739041.1739066</ee>
+    <crossref>conf/edbt/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbt/edbt2010.html#EurviriyanukulPFL10</url>
+</inproceedings>
+<inproceedings mdate="2010-03-18" key="conf/edbt/MissierPB10">
+    <author>Paolo Missier</author>
+    <author>Norman W. Paton</author>
+    <author>Khalid Belhajjame</author>
+    <title>Fine-grained and efficient lineage querying of collection-based workflow provenance.</title>
+    <pages>299-310</pages>
+    <year>2010</year>
+    <booktitle>EDBT</booktitle>
+    <ee>http://doi.acm.org/10.1145/1739041.1739079</ee>
+    <crossref>conf/edbt/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbt/edbt2010.html#MissierPB10</url>
+</inproceedings>
+<inproceedings mdate="2006-11-13" key="conf/edbtw/EurviriyanukulFP06">
+    <author>Kwanchai Eurviriyanukul</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Norman W. Paton</author>
+    <title>A Foundation for the Replacement of Pipelined Physical Join Operators in Adaptive Query Processing.</title>
+    <pages>589-600</pages>
+    <year>2006</year>
+    <crossref>conf/edbtw/2006</crossref>
+    <booktitle>EDBT Workshops</booktitle>
+    <ee>http://dx.doi.org/10.1007/11896548_44</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbtw/edbtw2006.html#EurviriyanukulFP06</url>
+</inproceedings>
+<inproceedings mdate="2010-04-15" key="conf/edbtw/HedelerBMPFGE10">
+    <author>Cornelia Hedeler</author>
+    <author>Khalid Belhajjame</author>
+    <author>Lu Mao</author>
+    <author>Norman W. Paton</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Chenjuan Guo</author>
+    <author>Suzanne M. Embury</author>
+    <title>Flexible Dataspace Management Through Model Management.</title>
+    <year>2010</year>
+    <booktitle>EDBT/ICDT Workshops</booktitle>
+    <ee>http://doi.acm.org/10.1145/1754239.1754241</ee>
+    <crossref>conf/edbtw/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/edbtw/edbtw2010.html#HedelerBMPFGE10</url>
+</inproceedings>
+<inproceedings mdate="2008-10-02" key="conf/ekaw/EganaRSA08">
+    <author>Mikel Egaa</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <author>Erick Antezana</author>
+    <title>Applying Ontology Design Patterns in Bio-ontologies.</title>
+    <pages>7-16</pages>
+    <year>2008</year>
+    <booktitle>EKAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-87696-0_4</ee>
+    <crossref>conf/ekaw/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ekaw/ekaw2008.html#EganaRSA08</url>
+</inproceedings>
+<inproceedings mdate="2010-11-22" key="conf/ekaw/Fernandez-BreisIPRS10">
+    <author>Jesualdo Toms Fernndez-Breis</author>
+    <author>Luigi Iannone</author>
+    <author>Ignazio Palmisano</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <title>Enriching the Gene Ontology via the Dissection of Labels Using the Ontology Pre-processor Language.</title>
+    <pages>59-73</pages>
+    <year>2010</year>
+    <booktitle>EKAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-16438-5_5</ee>
+    <crossref>conf/ekaw/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ekaw/ekaw2010.html#Fernandez-BreisIPRS10</url>
+</inproceedings>
+<inproceedings mdate="2009-05-23" key="conf/esws/AfzalSN09">
+    <author>Hammad Afzal</author>
+    <author>Robert Stevens</author>
+    <author>Goran Nenadic</author>
+    <title>Mining Semantic Descriptions of Bioinformatics Web Resources from the Literature.</title>
+    <pages>535-549</pages>
+    <year>2009</year>
+    <booktitle>ESWC</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-02121-3_40</ee>
+    <crossref>conf/esws/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/esws/eswc2009.html#AfzalSN09</url>
+</inproceedings>
+<inproceedings mdate="2010-06-08" key="conf/esws/IannonePRS10">
+    <author>Luigi Iannone</author>
+    <author>Ignazio Palmisano</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <title>Assessing the Safety of Knowledge Patterns in OWL Ontologies.</title>
+    <pages>137-151</pages>
+    <year>2010</year>
+    <booktitle>ESWC (1)</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-13486-9_10</ee>
+    <crossref>conf/esws/2010-1</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/esws/eswc2010-1.html#IannonePRS10</url>
+</inproceedings>
+<inproceedings mdate="2009-05-23" key="conf/esws/IannoneRS09">
+    <author>Luigi Iannone</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <title>Embedding Knowledge Patterns into OWL.</title>
+    <pages>218-232</pages>
+    <year>2009</year>
+    <booktitle>ESWC</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-02121-3_19</ee>
+    <crossref>conf/esws/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/esws/eswc2009.html#IannoneRS09</url>
+</inproceedings>
+<inproceedings mdate="2009-05-23" key="conf/esws/JuppBS09">
+    <author>Simon Jupp</author>
+    <author>Sean Bechhofer</author>
+    <author>Robert Stevens</author>
+    <title>A Flexible API and Editor for SKOS.</title>
+    <pages>506-520</pages>
+    <year>2009</year>
+    <booktitle>ESWC</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-02121-3_38</ee>
+    <crossref>conf/esws/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/esws/eswc2009.html#JuppBS09</url>
+</inproceedings>
+<inproceedings mdate="2006-06-07" key="conf/esws/PreeceJPMESB06">
+    <author>Alun D. Preece</author>
+    <author>Binling Jin</author>
+    <author>Edoardo Pignotti</author>
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>David Stead</author>
+    <author>Al Brown</author>
+    <title>Managing Information Quality in e-Science Using Semantic Web Technology.</title>
+    <pages>472-486</pages>
+    <year>2006</year>
+    <crossref>conf/esws/2006</crossref>
+    <booktitle>ESWC</booktitle>
+    <ee>http://dx.doi.org/10.1007/11762256_35</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/esws/eswc2006.html#PreeceJPMESB06</url>
+</inproceedings>
+<inproceedings mdate="2010-09-15" key="conf/gpc/LeePSDFM08">
+    <author>Kevin Lee</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Ewa Deelman</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Gaurang Mehta</author>
+    <title>Adaptive Workflow Processing and Execution in Pegasus.</title>
+    <pages>99-106</pages>
+    <year>2008</year>
+    <booktitle>GPC Workshops</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/GPC.WORKSHOPS.2008.30</ee>
+    <crossref>conf/gpc/2008w</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/gpc/gpc2008w.html#LeePSDFM08</url>
+</inproceedings>
+<inproceedings mdate="2007-12-03" key="conf/grid/CorchoAMBG07">
+    <author>scar Corcho</author>
+    <author>Pinar Alper</author>
+    <author>Paolo Missier</author>
+    <author>Sean Bechhofer</author>
+    <author>Carole A. Goble</author>
+    <title>Grid metadata management: Requirements and architecture.</title>
+    <pages>97-104</pages>
+    <year>2007</year>
+    <crossref>conf/grid/2007</crossref>
+    <booktitle>GRID</booktitle>
+    <ee>http://dx.doi.org/10.1109/GRID.2007.4354121</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/grid/grid2007.html#CorchoAMBG07</url>
+</inproceedings>
+<inproceedings mdate="2007-10-23" key="conf/ht/StringerYH07">
+    <author>Elizabeth C. Stringer</author>
+    <author>Yeliz Yesilada</author>
+    <author>Simon Harper</author>
+    <title>Experiments towards web 2.0 accessibility.</title>
+    <pages>33-34</pages>
+    <year>2007</year>
+    <crossref>conf/ht/2007</crossref>
+    <booktitle>Hypertext</booktitle>
+    <ee>http://doi.acm.org/10.1145/1286240.1286249</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ht/ht2007.html#StringerYH07</url>
+</inproceedings>
+<inproceedings mdate="2007-10-23" key="conf/ht/YesiladaLH07">
+    <author>Yeliz Yesilada</author>
+    <author>Darren Lunn</author>
+    <author>Simon Harper</author>
+    <title>Experiments toward reverse linking on the web.</title>
+    <pages>3-10</pages>
+    <year>2007</year>
+    <crossref>conf/ht/2007</crossref>
+    <booktitle>Hypertext</booktitle>
+    <ee>http://doi.acm.org/10.1145/1286240.1286244</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ht/ht2007.html#YesiladaLH07</url>
+</inproceedings>
+<inproceedings mdate="2009-11-04" key="conf/iat/QuinceyOKJMDASHKJS09">
+    <author>Ed de Quincey</author>
+    <author>Helen Oliver</author>
+    <author>Patty Kostkova</author>
+    <author>Gawesh Jawaheer</author>
+    <author>Gemma Madle</author>
+    <author>Gayo Diallo</author>
+    <author>Dimitra Alexopoulou</author>
+    <author>Michael Schroeder</author>
+    <author>Bianca Habermann</author>
+    <author>Khaled Khelif</author>
+    <author>Simon Jupp</author>
+    <author>Robert Stevens</author>
+    <title>Mining for Patterns of Semantic Link Usage: Do Domain Users Actually Like Semantic Browsing?</title>
+    <pages>50-53</pages>
+    <year>2009</year>
+    <booktitle>Web Intelligence/IAT Workshops</booktitle>
+    <ee>http://dx.doi.org/10.1109/WI-IAT.2009.228</ee>
+    <crossref>conf/iat/2009w</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/iat/iatw2009.html#QuinceyOKJMDASHKJS09</url>
+</inproceedings>
+<inproceedings mdate="2009-12-28" key="conf/icac/GounarisPSFSW06">
+    <author>Anastasios Gounaris</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Jim Smith</author>
+    <author>Paul Watson</author>
+    <title>Modular Adaptive Query Processing for Service-Based Grids.</title>
+    <pages>295-296</pages>
+    <year>2006</year>
+    <booktitle>ICAC</booktitle>
+    <ee>http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=34794&amp;arnumber=1662415&amp;count=54&amp;index=44</ee>
+    <crossref>conf/icac/2006</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icac/icac2006.html#GounarisPSFSW06</url>
+</inproceedings>
+<inproceedings mdate="2009-12-28" key="conf/icac/PatonRSN06">
+    <author>Norman W. Paton</author>
+    <author>Vijayshankar Raman</author>
+    <author>Garret Swart</author>
+    <author>Inderpal Narang</author>
+    <title>Autonomic Query Parallelization using Non-dedicated Computers: An Evaluation of Adaptivity Options.</title>
+    <pages>221-230</pages>
+    <year>2006</year>
+    <booktitle>ICAC</booktitle>
+    <ee>http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=34794&amp;arnumber=1662402&amp;count=54&amp;index=31</ee>
+    <crossref>conf/icac/2006</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icac/icac2006.html#PatonRSN06</url>
+</inproceedings>
+<inproceedings mdate="2007-07-24" key="conf/iccS/CorchoAMBGX07">
+    <author>scar Corcho</author>
+    <author>Pinar Alper</author>
+    <author>Paolo Missier</author>
+    <author>Sean Bechhofer</author>
+    <author>Carole A. Goble</author>
+    <author>Wei Xing</author>
+    <title>Metadata Management in S-OGSA.</title>
+    <pages>712-719</pages>
+    <year>2007</year>
+    <crossref>conf/iccS/2007-2</crossref>
+    <booktitle>International Conference on Computational Science (2)</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-72586-2_102</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/iccS/iccS2007-2.html#CorchoAMBGX07</url>
+</inproceedings>
+<inproceedings mdate="2010-12-23" key="conf/iccS/GoderisBALG07">
+    <author>Antoon Goderis</author>
+    <author>Christopher X. Brooks</author>
+    <author>Ilkay Altintas</author>
+    <author>Edward A. Lee</author>
+    <author>Carole A. Goble</author>
+    <title>Composing Different Models of Computation in Kepler and Ptolemy II.</title>
+    <pages>182-190</pages>
+    <year>2007</year>
+    <crossref>conf/iccS/2007-3</crossref>
+    <booktitle>International Conference on Computational Science (3)</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-72588-6_33</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/iccS/iccS2007-3.html#GoderisBALG07</url>
+</inproceedings>
+<inproceedings mdate="2012-01-23" key="conf/icde/GalpinBJFP08">
+    <author>Ixent Galpin</author>
+    <author>Christian Y. A. Brenninkmeijer</author>
+    <author>Farhana Jabeen</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Norman W. Paton</author>
+    <title>An Architecture for Query Optimization in Sensor Networks.</title>
+    <pages>1439-1441</pages>
+    <year>2008</year>
+    <booktitle>ICDE</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497582</ee>
+    <crossref>conf/icde/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2008.html#GalpinBJFP08</url>
+</inproceedings>
+<inproceedings mdate="2006-04-18" key="conf/icde/GounarisPSFSW06">
+    <author>Anastasios Gounaris</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Jim Smith</author>
+    <author>Paul Watson</author>
+    <title>Practical Adaptation to Changing Resources in Grid Query Processing.</title>
+    <pages>165</pages>
+    <year>2006</year>
+    <crossref>conf/icde/2006</crossref>
+    <booktitle>ICDE</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2006.113</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde2006.html#GounarisPSFSW06</url>
+</inproceedings>
+<inproceedings mdate="2008-05-05" key="conf/icde/YellinCP08">
+    <author>Daniel M. Yellin</author>
+    <author>Jorge Buenabad Chvez</author>
+    <author>Norman W. Paton</author>
+    <title>Probabilistic adaptive load balancing for parallel queries.</title>
+    <pages>19-26</pages>
+    <year>2008</year>
+    <booktitle>ICDE Workshops</booktitle>
+    <ee>http://dx.doi.org/10.1109/ICDEW.2008.4498280</ee>
+    <crossref>conf/icde/2008w</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icde/icdew2008.html#YellinCP08</url>
+</inproceedings>
+<inproceedings mdate="2006-06-07" key="conf/icse/WillmorE06">
+    <author>David Willmor</author>
+    <author>Suzanne M. Embury</author>
+    <title>An intensional approach to the specification of test cases for database applications.</title>
+    <pages>102-111</pages>
+    <year>2006</year>
+    <crossref>conf/icse/2006</crossref>
+    <booktitle>ICSE</booktitle>
+    <ee>http://doi.acm.org/10.1145/1134301</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icse/icse2006.html#WillmorE06</url>
+</inproceedings>
+<inproceedings mdate="2006-12-22" key="conf/icsea/EmburyWD06">
+    <author>Suzanne M. Embury</author>
+    <author>David Willmor</author>
+    <author>Lei Dang</author>
+    <title>Assessing Impacts of Changes to Business Rules through Data Exploration.</title>
+    <pages>21</pages>
+    <year>2006</year>
+    <crossref>conf/icsea/2006</crossref>
+    <booktitle>ICSEA</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ICSEA.2006.22</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icsea/icsea2006.html#EmburyWD06</url>
+</inproceedings>
+<inproceedings mdate="2007-08-31" key="conf/icsoc/Belhajjame07">
+    <author>Khalid Belhajjame</author>
+    <title>Addressing the Issue of Service Volatility in Scientific Workflows.</title>
+    <pages>377-382</pages>
+    <year>2007</year>
+    <crossref>conf/icsoc/2007</crossref>
+    <booktitle>ICSOC</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-74974-5_31</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icsoc/icsoc2007.html#Belhajjame07</url>
+</inproceedings>
+<inproceedings mdate="2010-11-10" key="conf/icwe/SinghBBE10">
+    <author>Ravinder Singh</author>
+    <author>Sean Bechhofer</author>
+    <author>Khalid Belhajjame</author>
+    <author>Suzanne M. Embury</author>
+    <title>Automatically Identifying Bounds on Semantic Annotations for Bioinformatics Web Service Input Parameters.</title>
+    <pages>232-243</pages>
+    <year>2010</year>
+    <booktitle>ICWE Workshops</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-16985-4_21</ee>
+    <crossref>conf/icwe/2010w</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/icwe/icwe2010w.html#SinghBBE10</url>
+</inproceedings>
+<inproceedings mdate="2010-12-08" key="conf/ipaw/AltintasACBBMLGS10">
+    <author>Ilkay Altintas</author>
+    <author>Manish Kumar Anand</author>
+    <author>Daniel Crawl</author>
+    <author>Shawn Bowers</author>
+    <author>Adam Belloum</author>
+    <author>Paolo Missier</author>
+    <author>Bertram Ludscher</author>
+    <author>Carole A. Goble</author>
+    <author>Peter M. A. Sloot</author>
+    <title>Understanding Collaborative Studies through Interoperable Workflow Provenance.</title>
+    <pages>42-58</pages>
+    <year>2010</year>
+    <booktitle>IPAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-17819-1_6</ee>
+    <crossref>conf/ipaw/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ipaw/ipaw2010.html#AltintasACBBMLGS10</url>
+</inproceedings>
+<inproceedings mdate="2008-11-24" key="conf/ipaw/MissierBZRG08">
+    <author>Paolo Missier</author>
+    <author>Khalid Belhajjame</author>
+    <author>Jun Zhao</author>
+    <author>Marco Roos</author>
+    <author>Carole A. Goble</author>
+    <title>Data Lineage Model for Taverna Workflows with Lightweight Annotation Requirements.</title>
+    <pages>17-30</pages>
+    <year>2008</year>
+    <booktitle>IPAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-89965-5_4</ee>
+    <crossref>conf/ipaw/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ipaw/ipaw2008.html#MissierBZRG08</url>
+</inproceedings>
+<inproceedings mdate="2008-11-24" key="conf/ipaw/MissierES08">
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>Richard Stapenhurst</author>
+    <title>Exploiting Provenance to Make Sense of Automated Decisions in Scientific Workflows.</title>
+    <pages>174-185</pages>
+    <year>2008</year>
+    <booktitle>IPAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-89965-5_19</ee>
+    <crossref>conf/ipaw/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ipaw/ipaw2008.html#MissierES08</url>
+</inproceedings>
+<inproceedings mdate="2010-12-08" key="conf/ipaw/MissierSZGS10">
+    <author>Paolo Missier</author>
+    <author>Satya Sanket Sahoo</author>
+    <author>Jun Zhao</author>
+    <author>Carole A. Goble</author>
+    <author>Amit P. Sheth</author>
+    <title>
+        <i>Janus</i>: From Workflows to Semantic Provenance and Linked Open Data.</title>
+    <pages>129-141</pages>
+    <year>2010</year>
+    <booktitle>IPAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-17819-1_16</ee>
+    <crossref>conf/ipaw/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ipaw/ipaw2010.html#MissierSZGS10</url>
+</inproceedings>
+<inproceedings mdate="2006-12-14" key="conf/ipaw/ZhaoGS06">
+    <author>Jun Zhao</author>
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <title>An Identity Crisis in the Life Sciences.</title>
+    <pages>254-269</pages>
+    <year>2006</year>
+    <crossref>conf/ipaw/2006</crossref>
+    <booktitle>IPAW</booktitle>
+    <ee>http://dx.doi.org/10.1007/11890850_26</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ipaw/ipaw2006.html#ZhaoGS06</url>
+</inproceedings>
+<inproceedings mdate="2013-02-25" key="conf/iqis/EmranEM08">
+    <author>Nurul A. Emran</author>
+    <author>Suzanne M. Embury</author>
+    <author>Paolo Missier</author>
+    <title>Model-Driven Component Generation for Families of Completeness.</title>
+    <pages>123-132</pages>
+    <year>2008</year>
+    <booktitle>QDB/MUD</booktitle>
+    <ee>http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/wuality3.pdf</ee>
+    <crossref>conf/iqis/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/iqis/qdbmud2008.html#EmranEM08</url>
+</inproceedings>
+<inproceedings mdate="2010-01-22" key="conf/isda/PirroMTTFG09">
+    <author>Giuseppe Pirr</author>
+    <author>Paolo Missier</author>
+    <author>Paolo Trunfio</author>
+    <author>Domenico Talia</author>
+    <author>Gabriele Falace</author>
+    <author>Carole A. Goble</author>
+    <title>Combining DHTs and SONs for Semantic-Based Service Discovery.</title>
+    <pages>902-907</pages>
+    <year>2009</year>
+    <booktitle>ISDA</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/ISDA.2009.77</ee>
+    <crossref>conf/isda/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/isda/isda2009.html#PirroMTTFG09</url>
+</inproceedings>
+<inproceedings mdate="2006-11-02" key="conf/ismb/WolstencroftLTBS06">
+    <author>Katy Wolstencroft</author>
+    <author>Phillip W. Lord</author>
+    <author>Lydia Tabernero</author>
+    <author>Andy Brass</author>
+    <author>Robert Stevens</author>
+    <title>Protein classification using ontology classification.</title>
+    <pages>530-538</pages>
+    <year>2006</year>
+    <crossref>conf/ismb/2006</crossref>
+    <booktitle>ISMB (Supplement of Bioinformatics)</booktitle>
+    <ee>http://dx.doi.org/10.1093/bioinformatics/btl208</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ismb/ismb2006.html#WolstencroftLTBS06</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/DrummondRSMHWS06">
+    <author>Nick Drummond</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <author>Georgina Moulton</author>
+    <author>Matthew Horridge</author>
+    <author>Hai Wang</author>
+    <author>Julian Seidenberg</author>
+    <title>Putting OWL in Order: Patterns for Sequences in OWL.</title>
+    <year>2006</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-216/submission_12.pdf</ee>
+    <crossref>conf/owled/2006</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2006.html#DrummondRSMHWS06</url>
+</inproceedings>
+<inproceedings mdate="2012-05-29" key="conf/owled/HastingsDHHSSSHB10">
+    <author>Janna Hastings</author>
+    <author>Michel Dumontier</author>
+    <author>Duncan Hull</author>
+    <author>Matthew Horridge</author>
+    <author>Christoph Steinbeck</author>
+    <author>Robert Stevens</author>
+    <author>Ulrike Sattler</author>
+    <author>Tertia Hrne</author>
+    <author>Katarina Britz</author>
+    <title>Representing Chemicals Using OWL, Description Graphs and Rules.</title>
+    <year>2010</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-614/owled2010_submission_13.pdf</ee>
+    <crossref>conf/owled/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2010.html#HastingsDHHSSSHB10</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/HorridgeDGRSW06">
+    <author>Matthew Horridge</author>
+    <author>Nick Drummond</author>
+    <author>John Goodwin</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <author>Hai Wang</author>
+    <title>The Manchester OWL Syntax.</title>
+    <year>2006</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-216/submission_9.pdf</ee>
+    <crossref>conf/owled/2006</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2006.html#HorridgeDGRSW06</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/IannoneARS08">
+    <author>Luigi Iannone</author>
+    <author>Mikel Egaa Aranguren</author>
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <title>Augmenting the Expressivity of the Ontology Pre-Processor Language.</title>
+    <year>2008</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_16.pdf</ee>
+    <crossref>conf/owled/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2008.html#IannoneARS08</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/JuppBS08">
+    <author>Simon Jupp</author>
+    <author>Sean Bechhofer</author>
+    <author>Robert Stevens</author>
+    <title>SKOS with OWL: Don't be Full-ish!</title>
+    <year>2008</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_22.pdf</ee>
+    <crossref>conf/owled/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2008.html#JuppBS08</url>
+</inproceedings>
+<inproceedings mdate="2012-05-29" key="conf/owled/ManafBS10">
+    <author>Nor Azlinayati Abdul Manaf</author>
+    <author>Sean Bechhofer</author>
+    <author>Robert Stevens</author>
+    <title>A Survey of Identifiers and Labels in OWL Ontologies.</title>
+    <year>2010</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-614/owled2010_submission_7.pdf</ee>
+    <crossref>conf/owled/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2010.html#ManafBS10</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/RectorS08">
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <title>Barriers to the use of OWL in Knowledge Driven Applications.</title>
+    <year>2008</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_15.pdf</ee>
+    <crossref>conf/owled/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2008.html#RectorS08</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/RectorSD08">
+    <author>Alan L. Rector</author>
+    <author>Robert Stevens</author>
+    <author>Nick Drummond</author>
+    <title>What Causes Pneumonia? The Case for a Standard Semantics for "may" in OWL.</title>
+    <year>2008</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_14.pdf</ee>
+    <crossref>conf/owled/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2008.html#RectorSD08</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/StevensLG06">
+    <author>Robert Stevens</author>
+    <author>Phillip W. Lord</author>
+    <author>Andrew Gibson</author>
+    <title>Something Nasty in the Woodshed: the Public Knowledge Model.</title>
+    <year>2006</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-216/submission_17.pdf</ee>
+    <crossref>conf/owled/2006</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2006.html#StevensLG06</url>
+</inproceedings>
+<inproceedings mdate="2009-02-15" key="conf/owled/StevensS08">
+    <author>Robert Stevens</author>
+    <author>Margaret Stevens</author>
+    <title>A Family History Knowledge Base Using OWL 2.</title>
+    <year>2008</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_29.pdf</ee>
+    <crossref>conf/owled/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/owled/owled2008.html#StevensS08</url>
+</inproceedings>
+<inproceedings mdate="2006-08-24" key="conf/psb/StevensBL06">
+    <author>Robert Stevens</author>
+    <author>Olivier Bodenreider</author>
+    <author>Yves A. Lussier</author>
+    <title>Session Introduction.</title>
+    <pages>112-115</pages>
+    <year>2006</year>
+    <crossref>conf/psb/2006</crossref>
+    <booktitle>Pacific Symposium on Biocomputing</booktitle>
+    <ee>http://psb.stanford.edu/psb-online/proceedings/psb06/intro-sem.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/psb/psb2006.html#StevensBL06</url>
+</inproceedings>
+<inproceedings mdate="2011-05-09" key="conf/seco/BragaGP10">
+    <author>Daniele Braga</author>
+    <author>Michael Grossniklaus</author>
+    <author>Norman W. Paton</author>
+    <title>Run-Time Adaptivity for Search Computing.</title>
+    <pages>156-166</pages>
+    <year>2010</year>
+    <booktitle>SeCO Workshop</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-19668-3_15</ee>
+    <crossref>conf/seco/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/seco/seco2010.html#BragaGP10</url>
+</inproceedings>
+<inproceedings mdate="2010-06-08" key="conf/seco/HedelerBPCFE09">
+    <author>Cornelia Hedeler</author>
+    <author>Khalid Belhajjame</author>
+    <author>Norman W. Paton</author>
+    <author>Alessandro Campi</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Suzanne M. Embury</author>
+    <title>Dataspaces.</title>
+    <pages>114-134</pages>
+    <year>2009</year>
+    <booktitle>SeCO Workshop</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-12310-8_7</ee>
+    <crossref>conf/seco/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/seco/seco2009.html#HedelerBPCFE09</url>
+</inproceedings>
+<inproceedings mdate="2010-06-08" key="conf/seco/MasseroliPS09">
+    <author>Marco Masseroli</author>
+    <author>Norman W. Paton</author>
+    <author>Irena Spasic</author>
+    <title>Search Computing and the Life Sciences.</title>
+    <pages>291-306</pages>
+    <year>2009</year>
+    <booktitle>SeCO Workshop</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-12310-8_15</ee>
+    <crossref>conf/seco/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/seco/seco2009.html#MasseroliPS09</url>
+</inproceedings>
+<inproceedings mdate="2011-05-10" key="conf/seco/MissierPL10">
+    <author>Paolo Missier</author>
+    <author>Norman W. Paton</author>
+    <author>Peter Li</author>
+    <title>Workflows for Information Integration in the Life Sciences.</title>
+    <pages>215-225</pages>
+    <year>2010</year>
+    <booktitle>SeCO Workshop</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-19668-3_20</ee>
+    <crossref>conf/seco/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/seco/seco2010.html#MissierPL10</url>
+</inproceedings>
+<inproceedings mdate="2007-09-19" key="conf/seke/KrenickyWE07">
+    <author>Roman Krenicky</author>
+    <author>David Willmor</author>
+    <author>Suzanne M. Embury</author>
+    <title>Exploratory Design of Derivation Business Rules Using Query Rewriting.</title>
+    <pages>467-472</pages>
+    <year>2007</year>
+    <crossref>conf/seke/2007</crossref>
+    <booktitle>SEKE</booktitle>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/seke/seke2007.html#KrenickyWE07</url>
+</inproceedings>
+<inproceedings mdate="2006-11-09" key="conf/semweb/BechhoferHL06">
+    <author>Sean Bechhofer</author>
+    <author>Simon Harper</author>
+    <author>Darren Lunn</author>
+    <title>: Semantic Annotation for Accessibility.</title>
+    <pages>101-115</pages>
+    <year>2006</year>
+    <crossref>conf/semweb/2006</crossref>
+    <booktitle>International Semantic Web Conference</booktitle>
+    <ee>http://dx.doi.org/10.1007/11926078_8</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/iswc2006.html#BechhoferHL06</url>
+</inproceedings>
+<inproceedings mdate="2006-11-09" key="conf/semweb/BelhajjameEPSG06">
+    <author>Khalid Belhajjame</author>
+    <author>Suzanne M. Embury</author>
+    <author>Norman W. Paton</author>
+    <author>Robert Stevens</author>
+    <author>Carole A. Goble</author>
+    <title>Automatic Annotation of Web Services Based on Workflow Definitions.</title>
+    <pages>116-129</pages>
+    <year>2006</year>
+    <crossref>conf/semweb/2006</crossref>
+    <booktitle>International Semantic Web Conference</booktitle>
+    <ee>http://dx.doi.org/10.1007/11926078_9</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/iswc2006.html#BelhajjameEPSG06</url>
+</inproceedings>
+<inproceedings mdate="2010-06-22" key="conf/semweb/CaoPSMGS08">
+    <author>Bin Cao</author>
+    <author>Beth Plale</author>
+    <author>Girish Subramanian</author>
+    <author>Paolo Missier</author>
+    <author>Carole A. Goble</author>
+    <author>Yogesh L. Simmhan</author>
+    <title>Semantically Annotated Provenance in the Life Science Grid.</title>
+    <year>2009</year>
+    <booktitle>SWPM</booktitle>
+    <ee>http://ceur-ws.org/Vol-526/paper_5.pdf</ee>
+    <crossref>conf/semweb/2009swpm</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/swpm2009.html#CaoPSMGS08</url>
+</inproceedings>
+<inproceedings mdate="2008-10-29" key="conf/semweb/JuppBS08">
+    <author>Simon Jupp</author>
+    <author>Sean Bechhofer</author>
+    <author>Robert Stevens</author>
+    <title>A Flexible API and Editor for SKOS.</title>
+    <year>2008</year>
+    <booktitle>International Semantic Web Conference (Posters &amp; Demos)</booktitle>
+    <ee>http://ceur-ws.org/Vol-401/iswc2008pd_submission_88.pdf</ee>
+    <crossref>conf/semweb/2008p</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/iswc2008p.html#JuppBS08</url>
+</inproceedings>
+<inproceedings mdate="2010-01-26" key="conf/semweb/TsarkovSS08">
+    <author>Dmitry Tsarkov</author>
+    <author>Ulrike Sattler</author>
+    <author>Robert Stevens</author>
+    <title>A Solution for the Man-Man Problem in the Family History Knowledge Base.</title>
+    <year>2009</year>
+    <booktitle>OWLED</booktitle>
+    <ee>http://ceur-ws.org/Vol-529/owled2009_submission_32.pdf</ee>
+    <crossref>conf/semweb/2009owled</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/semweb/owled2009.html#TsarkovSS08</url>
+</inproceedings>
+<inproceedings mdate="2010-08-12" key="conf/services/MissierWTLBBPG10">
+    <author>Paolo Missier</author>
+    <author>Katy Wolstencroft</author>
+    <author>Franck Tanoh</author>
+    <author>Peter Li</author>
+    <author>Sean Bechhofer</author>
+    <author>Khalid Belhajjame</author>
+    <author>Steve Pettifer</author>
+    <author>Carole A. Goble</author>
+    <title>Functional Units: Abstractions for Web Service Annotations.</title>
+    <pages>306-313</pages>
+    <year>2010</year>
+    <booktitle>SERVICES</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2010.21</ee>
+    <crossref>conf/services/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/services/services2010.html#MissierWTLBBPG10</url>
+</inproceedings>
+<inproceedings mdate="2007-02-26" key="conf/sigdoc/HarperBL06">
+    <author>Simon Harper</author>
+    <author>Sean Bechhofer</author>
+    <author>Darren Lunn</author>
+    <title>Taming the inaccessible web.</title>
+    <pages>64-69</pages>
+    <year>2006</year>
+    <crossref>conf/sigdoc/2006</crossref>
+    <booktitle>SIGDOC</booktitle>
+    <ee>http://doi.acm.org/10.1145/1166324.1166340</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigdoc/sigdoc2006.html#HarperBL06</url>
+</inproceedings>
+<inproceedings mdate="2009-10-12" key="conf/sigdoc/MbipomH09">
+    <author>Grace Mbipom</author>
+    <author>Simon Harper</author>
+    <title>The transition from web content accessibility guidelines 1.0 to 2.0: what this means for evaluation and repair.</title>
+    <pages>37-44</pages>
+    <year>2009</year>
+    <booktitle>SIGDOC</booktitle>
+    <ee>http://doi.acm.org/10.1145/1621995.1622003</ee>
+    <crossref>conf/sigdoc/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigdoc/sigdoc2009.html#MbipomH09</url>
+</inproceedings>
+<inproceedings mdate="2008-11-11" key="conf/sigdoc/MichailidouHB08">
+    <author>Eleni Michailidou</author>
+    <author>Simon Harper</author>
+    <author>Sean Bechhofer</author>
+    <title>Visual complexity and aesthetic perception of web pages.</title>
+    <pages>215-224</pages>
+    <year>2008</year>
+    <booktitle>SIGDOC</booktitle>
+    <ee>http://doi.acm.org/10.1145/1456536.1456581</ee>
+    <crossref>conf/sigdoc/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigdoc/sigdoc2008.html#MichailidouHB08</url>
+</inproceedings>
+<inproceedings mdate="2009-10-30" key="conf/sigmod/MissierEGPJ07">
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>R. Mark Greenwood</author>
+    <author>Alun D. Preece</author>
+    <author>Binling Jin</author>
+    <title>Managing information quality in e-science: the qurator workbench.</title>
+    <pages>1150-1152</pages>
+    <year>2007</year>
+    <crossref>conf/sigmod/2007</crossref>
+    <booktitle>SIGMOD Conference</booktitle>
+    <ee>http://doi.acm.org/10.1145/1247480.1247638</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/sigmod2007.html#MissierEGPJ07</url>
+</inproceedings>
+<inproceedings mdate="2012-09-18" key="conf/ssdbm/GalpinBJFP09">
+    <author>Ixent Galpin</author>
+    <author>Christian Y. A. Brenninkmeijer</author>
+    <author>Farhana Jabeen</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Norman W. Paton</author>
+    <title>Comprehensive Optimization of Declarative Sensor Network Queries.</title>
+    <pages>339-360</pages>
+    <year>2009</year>
+    <booktitle>SSDBM</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-02279-1_26</ee>
+    <crossref>conf/ssdbm/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ssdbm/ssdbm2009.html#GalpinBJFP09</url>
+</inproceedings>
+<inproceedings mdate="2012-09-18" key="conf/ssdbm/HedelerP08">
+    <author>Cornelia Hedeler</author>
+    <author>Norman W. Paton</author>
+    <title>A Comparative Evaluation of XML Difference Algorithms with Genomic Data.</title>
+    <pages>258-275</pages>
+    <year>2008</year>
+    <booktitle>SSDBM</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-540-69497-7_18</ee>
+    <crossref>conf/ssdbm/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ssdbm/ssdbm2008.html#HedelerP08</url>
+</inproceedings>
+<inproceedings mdate="2012-09-18" key="conf/ssdbm/MissierSOTNDWOG10">
+    <author>Paolo Missier</author>
+    <author>Stian Soiland-Reyes</author>
+    <author>Stuart Owen</author>
+    <author>Wei Tan</author>
+    <author>Aleksandra Nenadic</author>
+    <author>Ian Dunlop</author>
+    <author>Alan Williams</author>
+    <author>Tom Oinn</author>
+    <author>Carole A. Goble</author>
+    <title>Taverna, Reloaded.</title>
+    <pages>471-481</pages>
+    <year>2010</year>
+    <booktitle>SSDBM</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-3-642-13818-8_33</ee>
+    <crossref>conf/ssdbm/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/ssdbm/ssdbm2010.html#MissierSOTNDWOG10</url>
+</inproceedings>
+<inproceedings mdate="2012-02-15" key="conf/swat4ls/AfzalESN09">
+    <author>Hammad Afzal</author>
+    <author>James M. Eales</author>
+    <author>Robert Stevens</author>
+    <author>Goran Nenadic</author>
+    <title>Mining Semantic Networks of Bioinformatics e-Resources from the Literature.</title>
+    <year>2009</year>
+    <booktitle>SWAT4LS</booktitle>
+    <ee>http://ceur-ws.org/Vol-559/Paper4.pdf</ee>
+    <crossref>conf/swat4ls/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/swat4ls/swat4ls2009.html#AfzalESN09</url>
+</inproceedings>
+<inproceedings mdate="2012-02-15" key="conf/swat4ls/CanevetSKSLR09">
+    <author>Catherine Canevet</author>
+    <author>Andrea Splendiani</author>
+    <author>Shao-Chih Kuo</author>
+    <author>Robert Stevens</author>
+    <author>Phillip W. Lord</author>
+    <author>Christopher J. Rawlings</author>
+    <title>Ondex: data integration and visualisation for the Semantic Web.</title>
+    <year>2009</year>
+    <booktitle>SWAT4LS</booktitle>
+    <ee>http://ceur-ws.org/Vol-559/Poster3.pdf</ee>
+    <crossref>conf/swat4ls/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/swat4ls/swat4ls2009.html#CanevetSKSLR09</url>
+</inproceedings>
+<inproceedings mdate="2011-11-10" key="conf/swat4ls/JuppHIKOSSW10">
+    <author>Simon Jupp</author>
+    <author>Matthew Horridge</author>
+    <author>Luigi Iannone</author>
+    <author>Julie Klein</author>
+    <author>Stuart Owen</author>
+    <author>Joost Schanstra</author>
+    <author>Robert Stevens</author>
+    <author>Katy Wolstencroft</author>
+    <title>Populous: A Tool for Populating Templates for OWL Ontologies.</title>
+    <year>2010</year>
+    <booktitle>SWAT4LS</booktitle>
+    <ee>http://ceur-ws.org/Vol-698/paper7.pdf</ee>
+    <crossref>conf/swat4ls/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/swat4ls/swat4ls2010.html#JuppHIKOSSW10</url>
+</inproceedings>
+<inproceedings mdate="2006-09-19" key="conf/taicpart/WillmorE06">
+    <author>David Willmor</author>
+    <author>Suzanne M. Embury</author>
+    <title>Testing the Implementation of Business Rules Using Intensional Database Tests.</title>
+    <pages>115-126</pages>
+    <year>2006</year>
+    <crossref>conf/taicpart/2006</crossref>
+    <booktitle>TAIC PART</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/TAIC-PART.2006.28</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/taicpart/taicpart2006.html#WillmorE06</url>
+</inproceedings>
+<inproceedings mdate="2009-10-30" key="conf/vldb/MissierEGPJ06">
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>R. Mark Greenwood</author>
+    <author>Alun D. Preece</author>
+    <author>Binling Jin</author>
+    <title>Quality Views: Capturing and Exploiting the User Perspective on Data Quality.</title>
+    <pages>977-988</pages>
+    <year>2006</year>
+    <crossref>conf/vldb/2006</crossref>
+    <booktitle>VLDB</booktitle>
+    <ee>http://www.vldb.org/conf/2006/p977-missier.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb2006.html#MissierEGPJ06</url>
+</inproceedings>
+<inproceedings mdate="2008-06-24" key="conf/vr/GlencrossJFKWH07">
+    <author>Mashhuda Glencross</author>
+    <author>Caroline Jay</author>
+    <author>Jeff Feasel</author>
+    <author>Luv Kohli</author>
+    <author>Mary C. Whitton</author>
+    <author>Roger J. Hubbold</author>
+    <title>Effective Cooperative Haptic Interaction over the Internet.</title>
+    <pages>115-122</pages>
+    <year>2007</year>
+    <booktitle>VR</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/VR.2007.352471</ee>
+    <crossref>conf/vr/2007</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/vr/vr2007.html#GlencrossJFKWH07</url>
+</inproceedings>
+<inproceedings mdate="2009-05-12" key="conf/w4a/BrajnikYH09">
+    <author>Giorgio Brajnik</author>
+    <author>Yeliz Yesilada</author>
+    <author>Simon Harper</author>
+    <title>Guideline aggregation: web accessibility evaluation for older users.</title>
+    <pages>127-135</pages>
+    <year>2009</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1535654.1535686</ee>
+    <crossref>conf/w4a/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2009.html#BrajnikYH09</url>
+</inproceedings>
+<inproceedings mdate="2009-05-12" key="conf/w4a/BrownJH09">
+    <author>Andy Brown</author>
+    <author>Caroline Jay</author>
+    <author>Simon Harper</author>
+    <title>Audio presentation of auto-suggest lists.</title>
+    <pages>58-61</pages>
+    <year>2009</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1535654.1535667</ee>
+    <crossref>conf/w4a/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2009.html#BrownJH09</url>
+</inproceedings>
+<inproceedings mdate="2011-01-17" key="conf/w4a/BrownJH10">
+    <author>Andy Brown</author>
+    <author>Caroline Jay</author>
+    <author>Simon Harper</author>
+    <title>Tailored presentation of dynamic content.</title>
+    <pages>22</pages>
+    <year>2010</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1805986.1806018</ee>
+    <crossref>conf/w4a/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2010.html#BrownJH10</url>
+</inproceedings>
+<inproceedings mdate="2011-01-17" key="conf/w4a/BrownJH10a">
+    <author>Andy Brown</author>
+    <author>Caroline Jay</author>
+    <author>Simon Harper</author>
+    <title>Audio access to calendars.</title>
+    <pages>31</pages>
+    <year>2010</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1805986.1806028</ee>
+    <crossref>conf/w4a/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2010.html#BrownJH10a</url>
+</inproceedings>
+<inproceedings mdate="2007-10-26" key="conf/w4a/JaySGC06">
+    <author>Caroline Jay</author>
+    <author>Robert Stevens</author>
+    <author>Mashhuda Glencross</author>
+    <author>Alan Chalmers</author>
+    <title>How people use presentation to search for a link: expanding the understanding of accessibility on the web.</title>
+    <pages>113-120</pages>
+    <year>2006</year>
+    <crossref>conf/w4a/2006</crossref>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1133219.1133241</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2006.html#JaySGC06</url>
+</inproceedings>
+<inproceedings mdate="2008-05-20" key="conf/w4a/LunnBH08">
+    <author>Darren Lunn</author>
+    <author>Sean Bechhofer</author>
+    <author>Simon Harper</author>
+    <title>The SADIe transcoding platform.</title>
+    <pages>128-129</pages>
+    <year>2008</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1368044.1368073</ee>
+    <crossref>conf/w4a/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2008.html#LunnBH08</url>
+</inproceedings>
+<inproceedings mdate="2011-01-17" key="conf/w4a/LunnH10">
+    <author>Darren Lunn</author>
+    <author>Simon Harper</author>
+    <title>Using galvanic skin response measures to identify areas of frustration for older web 2.0 users.</title>
+    <pages>34</pages>
+    <year>2010</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1805986.1806032</ee>
+    <crossref>conf/w4a/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2010.html#LunnH10</url>
+</inproceedings>
+<inproceedings mdate="2009-05-12" key="conf/w4a/LunnHB09">
+    <author>Darren Lunn</author>
+    <author>Simon Harper</author>
+    <author>Sean Bechhofer</author>
+    <title>Combining SADIe and AxsJAX to improve the accessibility of web content.</title>
+    <pages>75-78</pages>
+    <year>2009</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1535654.1535672</ee>
+    <crossref>conf/w4a/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2009.html#LunnHB09</url>
+</inproceedings>
+<inproceedings mdate="2011-01-17" key="conf/w4a/YesiladaCH10">
+    <author>Yeliz Yesilada</author>
+    <author>Tianyi Chen</author>
+    <author>Simon Harper</author>
+    <title>A simple solution: solution migration from disabled to small device context.</title>
+    <pages>27</pages>
+    <year>2010</year>
+    <booktitle>W4A</booktitle>
+    <ee>http://doi.acm.org/10.1145/1805986.1806023</ee>
+    <crossref>conf/w4a/2010</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/w4a/w4a2010.html#YesiladaCH10</url>
+</inproceedings>
+<inproceedings mdate="2008-05-30" key="conf/www/GibsonWS07">
+    <author>Andrew Gibson</author>
+    <author>Katy Wolstencroft</author>
+    <author>Robert Stevens</author>
+    <title>Promotion of Ontological Comprehension: Exposing Terms and Metadata with Web 2.0.</title>
+    <year>2007</year>
+    <booktitle>CKC</booktitle>
+    <ee>http://ceur-ws.org/Vol-273/paper_40.pdf</ee>
+    <crossref>conf/www/2007ckc</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/ckc2007.html#GibsonWS07</url>
+</inproceedings>
+<inproceedings mdate="2008-05-13" key="conf/www/YesiladaJSH08">
+    <author>Yeliz Yesilada</author>
+    <author>Caroline Jay</author>
+    <author>Robert Stevens</author>
+    <author>Simon Harper</author>
+    <title>Validating the use and role of visual elements of web pages in navigation with an eye-tracking study.</title>
+    <pages>11-20</pages>
+    <year>2008</year>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/1367497.1367500</ee>
+    <crossref>conf/www/2008</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/conf/www/www2008.html#YesiladaJSH08</url>
+</inproceedings>
+<article mdate="2007-04-25" key="journals/bib/BodenreiderS06">
+    <author>Olivier Bodenreider</author>
+    <author>Robert Stevens</author>
+    <title>Bio-ontologies: current trends and future directions.</title>
+    <pages>256-274</pages>
+    <year>2006</year>
+    <volume>7</volume>
+    <journal>Briefings in Bioinformatics</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1093/bib/bbl027</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bib/bib7.html#BodenreiderS06</url>
+</article>
+<article mdate="2009-06-22" key="journals/bib/GobleSHWL08">
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <author>Duncan Hull</author>
+    <author>Katy Wolstencroft</author>
+    <author>Rodrigo Lopez</author>
+    <title>Data curation + process curation=data integration + science.</title>
+    <pages>506-517</pages>
+    <year>2008</year>
+    <volume>9</volume>
+    <journal>Briefings in Bioinformatics</journal>
+    <number>6</number>
+    <ee>http://dx.doi.org/10.1093/bib/bbn034</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bib/bib9.html#GobleSHWL08</url>
+</article>
+<article mdate="2008-04-04" key="journals/bib/SteadPMEHJBP08">
+    <author>David Stead</author>
+    <author>Norman W. Paton</author>
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>Cornelia Hedeler</author>
+    <author>Binling Jin</author>
+    <author>Alistair J. P. Brown</author>
+    <author>Alun D. Preece</author>
+    <title>Information quality in proteomics.</title>
+    <pages>174-188</pages>
+    <year>2008</year>
+    <volume>9</volume>
+    <journal>Briefings in Bioinformatics</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1093/bib/bbn004</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bib/bib9.html#SteadPMEHJBP08</url>
+</article>
+<article mdate="2008-01-14" key="journals/bib/StevensZG07">
+    <author>Robert Stevens</author>
+    <author>Jun Zhao</author>
+    <author>Carole A. Goble</author>
+    <title>Using provenance to manage knowledge of <i>In Silico</i> experiments.</title>
+    <pages>183-194</pages>
+    <year>2007</year>
+    <volume>8</volume>
+    <journal>Briefings in Bioinformatics</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1093/bib/bbm015</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bib/bib8.html#StevensZG07</url>
+</article>
+<article mdate="2008-11-05" key="journals/bioinformatics/BelhajjameJP08">
+    <author>Khalid Belhajjame</author>
+    <author>Andrew R. Jones</author>
+    <author>Norman W. Paton</author>
+    <title>A toolkit for capturing and sharing FuGE experiments.</title>
+    <pages>2647-2649</pages>
+    <year>2008</year>
+    <volume>24</volume>
+    <journal>Bioinformatics</journal>
+    <number>22</number>
+    <ee>http://dx.doi.org/10.1093/bioinformatics/btn496</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bioinformatics/bioinformatics24.html#BelhajjameJP08</url>
+</article>
+<article mdate="2010-04-13" key="journals/bioinformatics/DadaSPM10">
+    <author>Joseph O. Dada</author>
+    <author>Irena Spasic</author>
+    <author>Norman W. Paton</author>
+    <author>Pedro Mendes</author>
+    <title>SBRML: a markup language for associating systems biology data with models.</title>
+    <pages>932-938</pages>
+    <year>2010</year>
+    <volume>26</volume>
+    <journal>Bioinformatics</journal>
+    <number>7</number>
+    <ee>http://dx.doi.org/10.1093/bioinformatics/btq069</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bioinformatics/bioinformatics26.html#DadaSPM10</url>
+</article>
+<article mdate="2009-06-22" key="journals/bioinformatics/SpasicSMPK09">
+    <author>Irena Spasic</author>
+    <author>Evangelos Simeonidis</author>
+    <author>Hanan L. Messiha</author>
+    <author>Norman W. Paton</author>
+    <author>Douglas B. Kell</author>
+    <title>KiPar, a tool for systematic information retrieval regarding parameters for kinetic modelling of yeast metabolic pathways.</title>
+    <pages>1404-1411</pages>
+    <year>2009</year>
+    <volume>25</volume>
+    <journal>Bioinformatics</journal>
+    <number>11</number>
+    <ee>http://dx.doi.org/10.1093/bioinformatics/btp175</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bioinformatics/bioinformatics25.html#SpasicSMPK09</url>
+</article>
+<article mdate="2010-07-01" key="journals/bmcbi/AntezanaBERSBMK09">
+    <author>Erick Antezana</author>
+    <author>Ward Blond</author>
+    <author>Mikel Egaa</author>
+    <author>Alistair Rutherford</author>
+    <author>Robert Stevens</author>
+    <author>Bernard De Baets</author>
+    <author>Vladimir Mironov</author>
+    <author>Martin Kuiper</author>
+    <title>BioGateway: a semantic systems biology tool for the life sciences.</title>
+    <pages>11</pages>
+    <year>2009</year>
+    <volume>10</volume>
+    <journal>BMC Bioinformatics</journal>
+    <number>S-10</number>
+    <ee>http://dx.doi.org/10.1186/1471-2105-10-S10-S11</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi10S.html#AntezanaBERSBMK09</url>
+</article>
+<article mdate="2009-07-02" key="journals/bmcbi/ArangurenAKS08">
+    <author>Mikel Egaa Aranguren</author>
+    <author>Erick Antezana</author>
+    <author>Martin Kuiper</author>
+    <author>Robert Stevens</author>
+    <title>Ontology Design Patterns for bio-ontologies: a case study on the Cell Cycle Ontology.</title>
+    <year>2008</year>
+    <volume>9</volume>
+    <journal>BMC Bioinformatics</journal>
+    <number>S-5</number>
+    <ee>http://dx.doi.org/10.1186/1471-2105-9-S5-S1</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi9S.html#ArangurenAKS08</url>
+</article>
+<article mdate="2009-11-10" key="journals/bmcbi/CastroRSTNRS06">
+    <author>Alexander Garca Castro</author>
+    <author>Philippe Rocca-Serra</author>
+    <author>Robert Stevens</author>
+    <author>Chris F. Taylor</author>
+    <author>Karim Nashar</author>
+    <author>Mark A. Ragan</author>
+    <author>Susanna-Assunta Sansone</author>
+    <title>The use of concept maps during knowledge elicitation in ontology development processes - the nutrigenomics use case.</title>
+    <pages>267</pages>
+    <year>2006</year>
+    <volume>7</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-7-267</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi7.html#CastroRSTNRS06</url>
+</article>
+<article mdate="2009-11-10" key="journals/bmcbi/GarwoodGHGSOP06">
+    <author>Kevin L. Garwood</author>
+    <author>Christopher Garwood</author>
+    <author>Cornelia Hedeler</author>
+    <author>Tony Griffiths</author>
+    <author>Neil Swainston</author>
+    <author>Stephen G. Oliver</author>
+    <author>Norman W. Paton</author>
+    <title>Model-driven user interfaces for bioinformatics data resources: regenerating the wheel as an alternative to reinventing it.</title>
+    <pages>532</pages>
+    <year>2006</year>
+    <volume>7</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-7-532</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi7.html#GarwoodGHGSOP06</url>
+</article>
+<article mdate="2009-11-10" key="journals/bmcbi/JamesonGGBAOP08">
+    <author>Daniel Jameson</author>
+    <author>Kevin L. Garwood</author>
+    <author>Christopher Garwood</author>
+    <author>Tim Booth</author>
+    <author>Pinar Alper</author>
+    <author>Stephen G. Oliver</author>
+    <author>Norman W. Paton</author>
+    <title>Data capture in bioinformatics: requirements and experiences with Pedro.</title>
+    <year>2008</year>
+    <volume>9</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-9-183</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi9.html#JamesonGGBAOP08</url>
+</article>
+<article mdate="2009-08-21" key="journals/bmcbi/JamesonTAKRSGSOWKP09">
+    <author>Daniel Jameson</author>
+    <author>David A. Turner</author>
+    <author>John Ankers</author>
+    <author>Stephnie Kennedy</author>
+    <author>Sheila Ryan</author>
+    <author>Neil Swainston</author>
+    <author>Tony Griffiths</author>
+    <author>David G. Spiller</author>
+    <author>Stephen G. Oliver</author>
+    <author>Michael R. H. White</author>
+    <author>Douglas B. Kell</author>
+    <author>Norman W. Paton</author>
+    <title>Information management for high content live cell imaging.</title>
+    <year>2009</year>
+    <volume>10</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-10-226</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi10.html#JamesonTAKRSGSOWKP09</url>
+</article>
+<article mdate="2009-06-30" key="journals/bmcbi/LiCVWSOWOPGOK08">
+    <author>Peter Li</author>
+    <author>Juan I. Castrillo</author>
+    <author>Giles Velarde</author>
+    <author>Ingo Wassink</author>
+    <author>Stian Soiland-Reyes</author>
+    <author>Stuart Owen</author>
+    <author>David Withers</author>
+    <author>Tom Oinn</author>
+    <author>Matthew R. Pocock</author>
+    <author>Carole A. Goble</author>
+    <author>Stephen G. Oliver</author>
+    <author>Douglas B. Kell</author>
+    <title>Performing statistical analyses on quantitative data in Taverna workflows: An example using R and maxdBrowse to identify differentially-expressed genes from microarray data.</title>
+    <year>2008</year>
+    <volume>9</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-9-334</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi9.html#LiCVWSOWOPGOK08</url>
+</article>
+<article mdate="2010-12-27" key="journals/bmcbi/LiDJSSCDKMMSWWWBGGKWMP10">
+    <author>Peter Li</author>
+    <author>Joseph O. Dada</author>
+    <author>Daniel Jameson</author>
+    <author>Irena Spasic</author>
+    <author>Neil Swainston</author>
+    <author>Kathleen Carroll</author>
+    <author>Warwick B. Dunn</author>
+    <author>Farid Khan</author>
+    <author>Naglis Malys</author>
+    <author>Hanan L. Messiha</author>
+    <author>Evangelos Simeonidis</author>
+    <author>Dieter Weichart</author>
+    <author>Catherine Winder</author>
+    <author>Jill Wishart</author>
+    <author>David S. Broomhead</author>
+    <author>Carole A. Goble</author>
+    <author>Simon J. Gaskell</author>
+    <author>Douglas B. Kell</author>
+    <author>Hans V. Westerhoff</author>
+    <author>Pedro Mendes</author>
+    <author>Norman W. Paton</author>
+    <title>Systematic integration of experimental data and models in systems biology.</title>
+    <pages>582</pages>
+    <year>2010</year>
+    <volume>11</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-11-582</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi11.html#LiDJSSCDKMMSWWWBGGKWMP10</url>
+</article>
+<article mdate="2013-01-04" key="journals/bmcbi/MollerKTPWWGHBP10">
+    <author>Steffen Mller</author>
+    <author>Hajo N. Krabbenhft</author>
+    <author>Andreas Tille</author>
+    <author>David Paleino</author>
+    <author>Alan Williams</author>
+    <author>Katy Wolstencroft</author>
+    <author>Carole A. Goble</author>
+    <author>Richard Holland</author>
+    <author>Dominique Belhachemi</author>
+    <author>Charles Plessy</author>
+    <title>Community-driven computational biology with Debian Linux.</title>
+    <pages>S5</pages>
+    <year>2010</year>
+    <volume>11</volume>
+    <journal>BMC Bioinformatics</journal>
+    <number>S-12</number>
+    <ee>http://dx.doi.org/10.1186/1471-2105-11-S12-S5</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi11S.html#MollerKTPWWGHBP10</url>
+</article>
+<article mdate="2010-07-01" key="journals/bmcbi/OliverDQAHKSJKSJM09">
+    <author>Helen Oliver</author>
+    <author>Gayo Diallo</author>
+    <author>Ed de Quincey</author>
+    <author>Dimitra Alexopoulou</author>
+    <author>Bianca Habermann</author>
+    <author>Patty Kostkova</author>
+    <author>Michael Schroeder</author>
+    <author>Simon Jupp</author>
+    <author>Khaled Khelif</author>
+    <author>Robert Stevens</author>
+    <author>Gawesh Jawaheer</author>
+    <author>Gemma Madle</author>
+    <title>A user-centred evaluation framework for the Sealife semantic web browsers.</title>
+    <pages>14</pages>
+    <year>2009</year>
+    <volume>10</volume>
+    <journal>BMC Bioinformatics</journal>
+    <number>S-10</number>
+    <ee>http://dx.doi.org/10.1186/1471-2105-10-S10-S14</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi10S.html#OliverDQAHKSJKSJM09</url>
+</article>
+<article mdate="2009-07-02" key="journals/bmcbi/SpasicSSRKP08">
+    <author>Irena Spasic</author>
+    <author>Daniel Schober</author>
+    <author>Susanna-Assunta Sansone</author>
+    <author>Dietrich Rebholz-Schuhmann</author>
+    <author>Douglas B. Kell</author>
+    <author>Norman W. Paton</author>
+    <title>Facilitating the development of controlled vocabularies for metabolomics technologies with text mining.</title>
+    <year>2008</year>
+    <volume>9</volume>
+    <journal>BMC Bioinformatics</journal>
+    <number>S-5</number>
+    <ee>http://dx.doi.org/10.1186/1471-2105-9-S5-S5</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi9S.html#SpasicSSRKP08</url>
+</article>
+<article mdate="2010-11-17" key="journals/bmcbi/TanMNSSFG10">
+    <author>Wei Tan</author>
+    <author>Ravi K. Madduri</author>
+    <author>Aleksandra Nenadic</author>
+    <author>Stian Soiland-Reyes</author>
+    <author>Dinanath Sulakhe</author>
+    <author>Ian T. Foster</author>
+    <author>Carole A. Goble</author>
+    <title>caGrid Workflow Toolkit: A Taverna based workflow tool for cancer Grid.</title>
+    <pages>542</pages>
+    <year>2010</year>
+    <volume>11</volume>
+    <journal>BMC Bioinformatics</journal>
+    <ee>http://dx.doi.org/10.1186/1471-2105-11-542</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/bmcbi/bmcbi11.html#TanMNSSFG10</url>
+</article>
+<article mdate="2010-12-15" key="journals/cai/AlperCG08">
+    <author>Pinar Alper</author>
+    <author>scar Corcho</author>
+    <author>Carole A. Goble</author>
+    <title>Understanding Semantic Aware Grid Middleware for e-Science.</title>
+    <pages>93-118</pages>
+    <year>2008</year>
+    <volume>27</volume>
+    <journal>Computing and Informatics</journal>
+    <number>1</number>
+    <ee>http://www.sav.sk/index.php?lang=en&amp;charset=ascii&amp;doc=journal&amp;part=list_articles&amp;journal_issue_no=2069#abstract_4508</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/cai/cai27.html#AlperCG08</url>
+</article>
+<article mdate="2011-02-18" key="journals/chb/YesiladaHCT10">
+    <author>Yeliz Yesilada</author>
+    <author>Simon Harper</author>
+    <author>Tianyi Chen</author>
+    <author>Shari Trewin</author>
+    <title>Small-device users situationally impaired by input.</title>
+    <pages>427-435</pages>
+    <year>2010</year>
+    <volume>26</volume>
+    <journal>Computers in Human Behavior</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1016/j.chb.2009.12.001</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/chb/chb26.html#YesiladaHCT10</url>
+</article>
+<article mdate="2011-02-15" key="journals/cogsr/KolaHLRGM10">
+    <author>Jay (Subbarao) Kola</author>
+    <author>Jonathan Harris</author>
+    <author>Stephen Lawrie</author>
+    <author>Alan L. Rector</author>
+    <author>Carole A. Goble</author>
+    <author>Maryann E. Martone</author>
+    <title>Towards an ontology for psychosis.</title>
+    <pages>42-52</pages>
+    <year>2010</year>
+    <volume>11</volume>
+    <journal>Cognitive Systems Research</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1016/j.cogsys.2008.08.005</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/cogsr/cogsr11.html#KolaHLRGM10</url>
+</article>
+<article mdate="2008-04-27" key="journals/computer/GilDEFFGGLMM07">
+    <author>Yolanda Gil</author>
+    <author>Ewa Deelman</author>
+    <author>Mark H. Ellisman</author>
+    <author>Thomas Fahringer</author>
+    <author>Geoffrey Fox</author>
+    <author>Dennis Gannon</author>
+    <author>Carole A. Goble</author>
+    <author>Miron Livny</author>
+    <author>Luc Moreau</author>
+    <author>Jim Myers</author>
+    <title>Examining the Challenges of Scientific Workflows.</title>
+    <pages>24-32</pages>
+    <year>2007</year>
+    <volume>40</volume>
+    <journal>IEEE Computer</journal>
+    <number>12</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/MC.2007.421</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/computer/computer40.html#GilDEFFGGLMM07</url>
+</article>
+<article mdate="2010-03-08" key="journals/concurrency/GoderisFGTWRG09">
+    <author>Antoon Goderis</author>
+    <author>Paul Fisher</author>
+    <author>Andrew Gibson</author>
+    <author>Franck Tanoh</author>
+    <author>Katy Wolstencroft</author>
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <title>Benchmarking workflow discovery: a case study from bioinformatics.</title>
+    <pages>2052-2069</pages>
+    <year>2009</year>
+    <volume>21</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>16</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1447</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency21.html#GoderisFGTWRG09</url>
+</article>
+<article mdate="2010-03-08" key="journals/concurrency/LeePSDFM09">
+    <author>Kevin Lee</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Ewa Deelman</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Gaurang Mehta</author>
+    <title>Adaptive workflow processing and execution in Pegasus.</title>
+    <pages>1965-1981</pages>
+    <year>2009</year>
+    <volume>21</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>16</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1446</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency21.html#LeePSDFM09</url>
+</article>
+<article mdate="2008-12-10" key="journals/concurrency/MoreauLABBCCCCBDDDFFFFGGGGGHJKKKMMMMMMPPRSSSSSSSSSTVWZZ08">
+    <author>Luc Moreau</author>
+    <author>Bertram Ludscher</author>
+    <author>Ilkay Altintas</author>
+    <author>Roger S. Barga</author>
+    <author>Shawn Bowers</author>
+    <author>Steven P. Callahan</author>
+    <author>George Chin Jr.</author>
+    <author>Ben Clifford</author>
+    <author>Shirley Cohen</author>
+    <author>Sarah Cohen Boulakia</author>
+    <author>Susan B. Davidson</author>
+    <author>Ewa Deelman</author>
+    <author>Luciano A. Digiampietri</author>
+    <author>Ian T. Foster</author>
+    <author>Juliana Freire</author>
+    <author>James Frew</author>
+    <author>Joe Futrelle</author>
+    <author>Tara Gibson</author>
+    <author>Yolanda Gil</author>
+    <author>Carole A. Goble</author>
+    <author>Jennifer Golbeck</author>
+    <author>Paul T. Groth</author>
+    <author>David A. Holland</author>
+    <author>Sheng Jiang</author>
+    <author>Jihie Kim</author>
+    <author>David Koop</author>
+    <author>Ales Krenek</author>
+    <author>Timothy M. McPhillips</author>
+    <author>Gaurang Mehta</author>
+    <author>Simon Miles</author>
+    <author>Dominic Metzger</author>
+    <author>Steve Munroe</author>
+    <author>Jim Myers</author>
+    <author>Beth Plale</author>
+    <author>Norbert Podhorszki</author>
+    <author>Varun Ratnakar</author>
+    <author>Emanuele Santos</author>
+    <author>Carlos Eduardo Scheidegger</author>
+    <author>Karen Schuchardt</author>
+    <author>Margo I. Seltzer</author>
+    <author>Yogesh L. Simmhan</author>
+    <author>Cludio T. Silva</author>
+    <author>Peter Slaughter</author>
+    <author>Eric G. Stephan</author>
+    <author>Robert Stevens</author>
+    <author>Daniele Turi</author>
+    <author>Huy T. Vo</author>
+    <author>Michael Wilde</author>
+    <author>Jun Zhao</author>
+    <author>Yong Zhao</author>
+    <title>Special Issue: The First Provenance Challenge.</title>
+    <pages>409-418</pages>
+    <year>2008</year>
+    <volume>20</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>5</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1233</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency20.html#MoreauLABBCCCCBDDDFFFFGGGGGHJKKKMMMMMMPPRSSSSSSSSSTVWZZ08</url>
+</article>
+<article mdate="2006-11-17" key="journals/concurrency/OinnGAAFGGGHMLLPSSWW06">
+    <author>Thomas M. Oinn</author>
+    <author>R. Mark Greenwood</author>
+    <author>Matthew Addis</author>
+    <author>M. Nedim Alpdemir</author>
+    <author>Justin Ferris</author>
+    <author>Kevin Glover</author>
+    <author>Carole A. Goble</author>
+    <author>Antoon Goderis</author>
+    <author>Duncan Hull</author>
+    <author>Darren Marvin</author>
+    <author>Peter Li</author>
+    <author>Phillip W. Lord</author>
+    <author>Matthew R. Pocock</author>
+    <author>Martin Senger</author>
+    <author>Robert Stevens</author>
+    <author>Anil Wipat</author>
+    <author>Chris Wroe</author>
+    <title>Taverna: lessons in creating a workflow environment for the life sciences.</title>
+    <pages>1067-1100</pages>
+    <year>2006</year>
+    <volume>18</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>10</number>
+    <ee>http://dx.doi.org/10.1002/cpe.993</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency18.html#OinnGAAFGGGHMLLPSSWW06</url>
+</article>
+<article mdate="2008-11-18" key="journals/concurrency/Paton08">
+    <author>Norman W. Paton</author>
+    <title>Autonomics and data management.</title>
+    <pages>2075-2088</pages>
+    <year>2008</year>
+    <volume>20</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>17</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1306</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency20.html#Paton08</url>
+</article>
+<article mdate="2009-10-30" key="journals/concurrency/PreeceMEJG08">
+    <author>Alun D. Preece</author>
+    <author>Paolo Missier</author>
+    <author>Suzanne M. Embury</author>
+    <author>Binling Jin</author>
+    <author>R. Mark Greenwood</author>
+    <title>An ontology-based approach to handling information quality in e-Science.</title>
+    <pages>253-264</pages>
+    <year>2008</year>
+    <volume>20</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1195</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency20.html#PreeceMEJG08</url>
+</article>
+<article mdate="2010-11-05" key="journals/concurrency/RoureGABBCFHMNPLP10">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <author>Sergejs Aleksejevs</author>
+    <author>Sean Bechhofer</author>
+    <author>Jiten Bhagat</author>
+    <author>Don Cruickshank</author>
+    <author>Paul Fisher</author>
+    <author>Duncan Hull</author>
+    <author>Danius T. Michaelides</author>
+    <author>David R. Newman</author>
+    <author>Rob Procter</author>
+    <author>Yuwei Lin</author>
+    <author>Meik Poschen</author>
+    <title>Towards open science: the myExperiment approach.</title>
+    <pages>2335-2353</pages>
+    <year>2010</year>
+    <volume>22</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>17</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1601</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency22.html#RoureGABBCFHMNPLP10</url>
+</article>
+<article mdate="2006-11-17" key="journals/concurrency/SampaioPSW06">
+    <author>Sandra de F. Mendes Sampaio</author>
+    <author>Norman W. Paton</author>
+    <author>Jim Smith</author>
+    <author>Paul Watson</author>
+    <title>Measuring and modelling the performance of a parallel ODMG compliant object database server.</title>
+    <pages>63-109</pages>
+    <year>2006</year>
+    <volume>18</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1002/cpe.907</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency18.html#SampaioPSW06</url>
+</article>
+<article mdate="2010-10-26" key="journals/concurrency/TanMFMRG10">
+    <author>Wei Tan</author>
+    <author>Paolo Missier</author>
+    <author>Ian T. Foster</author>
+    <author>Ravi K. Madduri</author>
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <title>A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid.</title>
+    <pages>1098-1117</pages>
+    <year>2010</year>
+    <volume>22</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>9</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1547</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency22.html#TanMFMRG10</url>
+</article>
+<article mdate="2007-11-26" key="journals/concurrency/WroeGGLMPAM07">
+    <author>Chris Wroe</author>
+    <author>Carole A. Goble</author>
+    <author>Antoon Goderis</author>
+    <author>Phillip W. Lord</author>
+    <author>Simon Miles</author>
+    <author>Juri Papay</author>
+    <author>Pinar Alper</author>
+    <author>Luc Moreau</author>
+    <title>Recycling workflows and services through discovery and reuse.</title>
+    <pages>181-194</pages>
+    <year>2007</year>
+    <volume>19</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1050</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency19.html#WroeGGLMPAM07</url>
+</article>
+<article mdate="2008-06-05" key="journals/concurrency/ZhangYNCGRCOS07">
+    <author>Ning Zhang</author>
+    <author>Li Yao</author>
+    <author>Aleksandra Nenadic</author>
+    <author>Jay Chin</author>
+    <author>Carole A. Goble</author>
+    <author>Alan L. Rector</author>
+    <author>David W. Chadwick</author>
+    <author>Sassa Otenko</author>
+    <author>Qi Shi</author>
+    <title>Achieving fine-grained access control in virtual organizations.</title>
+    <pages>1333-1352</pages>
+    <year>2007</year>
+    <volume>19</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>9</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1099</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency19.html#ZhangYNCGRCOS07</url>
+</article>
+<article mdate="2008-09-25" key="journals/concurrency/ZhaoGST08">
+    <author>Jun Zhao</author>
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <author>Daniele Turi</author>
+    <title>Mining Taverna's semantic web of provenance.</title>
+    <pages>463-472</pages>
+    <year>2008</year>
+    <volume>20</volume>
+    <journal>Concurrency and Computation: Practice and Experience</journal>
+    <number>5</number>
+    <ee>http://dx.doi.org/10.1002/cpe.1231</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/concurrency/concurrency20.html#ZhaoGST08</url>
+</article>
+<article mdate="2012-10-10" key="journals/corr/abs-1012-1745" publtype="informal publication">
+    <author>Simon Jupp</author>
+    <author>Matthew Horridge</author>
+    <author>Luigi Iannone</author>
+    <author>Julie Klein</author>
+    <author>Stuart Owen</author>
+    <author>Joost Schanstra</author>
+    <author>Robert Stevens</author>
+    <author>Katy Wolstencroft</author>
+    <title>Populous: A tool for populating ontology templates</title>
+    <ee>http://arxiv.org/abs/1012.1745</ee>
+    <year>2010</year>
+    <journal>CoRR</journal>
+    <volume>abs/1012.1745</volume>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/corr/corr1012.html#abs-1012-1745</url>
+</article>
+<article mdate="2009-05-31" key="journals/debu/PatonALFS09">
+    <author>Norman W. Paton</author>
+    <author>Marcelo A. T. Arago</author>
+    <author>Kevin Lee</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Rizos Sakellariou</author>
+    <title>Optimizing Utility in Cloud Computing through Autonomic Workload Execution.</title>
+    <pages>51-58</pages>
+    <year>2009</year>
+    <volume>32</volume>
+    <journal>IEEE Data Eng. Bull.</journal>
+    <number>1</number>
+    <ee>http://sites.computer.org/debull/A09mar/paton.pdf</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu32.html#PatonALFS09</url>
+</article>
+<article mdate="2008-08-21" key="journals/dke/ArangurenWGS08">
+    <author>Mikel Egaa Aranguren</author>
+    <author>Chris Wroe</author>
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <title>In situ migration of handcrafted ontologies to reason-able forms.</title>
+    <pages>147-162</pages>
+    <year>2008</year>
+    <volume>66</volume>
+    <journal>Data Knowl. Eng.</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1016/j.datak.2008.02.002</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/dke/dke66.html#ArangurenWGS08</url>
+</article>
+<article mdate="2006-07-03" key="journals/dpd/GounarisSPF06">
+    <author>Anastasios Gounaris</author>
+    <author>Rizos Sakellariou</author>
+    <author>Norman W. Paton</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <title>A novel approach to resource scheduling for parallel query processing on computational grids.</title>
+    <pages>87-106</pages>
+    <year>2006</year>
+    <volume>19</volume>
+    <journal>Distributed and Parallel Databases</journal>
+    <number>2-3</number>
+    <ee>http://dx.doi.org/10.1007/s10619-006-8490-2</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/dpd/dpd19.html#GounarisSPF06</url>
+</article>
+<article mdate="2009-10-01" key="journals/dpd/GounarisSPSFW09">
+    <author>Anastasios Gounaris</author>
+    <author>Jim Smith</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Paul Watson</author>
+    <title>Adaptive workload allocation in query processing in autonomous heterogeneous environments.</title>
+    <pages>125-164</pages>
+    <year>2009</year>
+    <volume>25</volume>
+    <journal>Distributed and Parallel Databases</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1007/s10619-008-7032-5</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/dpd/dpd25.html#GounarisSPSFW09</url>
+</article>
+<article mdate="2009-02-11" key="journals/fgcs/GibsonGWOGBM09">
+    <author>Andrew Gibson</author>
+    <author>Matthew Gamble</author>
+    <author>Katy Wolstencroft</author>
+    <author>Tom Oinn</author>
+    <author>Carole A. Goble</author>
+    <author>Khalid Belhajjame</author>
+    <author>Paolo Missier</author>
+    <title>The data playground: An intuitive workflow specification environment.</title>
+    <pages>453-459</pages>
+    <year>2009</year>
+    <volume>25</volume>
+    <journal>Future Generation Comp. Syst.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.1016/j.future.2008.09.009</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/fgcs/fgcs25.html#GibsonGWOGBM09</url>
+</article>
+<article mdate="2010-12-23" key="journals/fgcs/GoderisBALG09">
+    <author>Antoon Goderis</author>
+    <author>Christopher X. Brooks</author>
+    <author>Ilkay Altintas</author>
+    <author>Edward A. Lee</author>
+    <author>Carole A. Goble</author>
+    <title>Heterogeneous composition of models of computation.</title>
+    <pages>552-560</pages>
+    <year>2009</year>
+    <volume>25</volume>
+    <journal>Future Generation Comp. Syst.</journal>
+    <number>5</number>
+    <ee>http://dx.doi.org/10.1016/j.future.2008.06.014</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/fgcs/fgcs25.html#GoderisBALG09</url>
+</article>
+<article mdate="2010-03-18" key="journals/fgcs/LyndenMHFPSW09">
+    <author>Steven J. Lynden</author>
+    <author>Arijit Mukherjee</author>
+    <author>Alastair C. Hume</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <author>Norman W. Paton</author>
+    <author>Rizos Sakellariou</author>
+    <author>Paul Watson</author>
+    <title>The design and implementation of OGSA-DQP: A service-based distributed query processor.</title>
+    <pages>224-236</pages>
+    <year>2009</year>
+    <volume>25</volume>
+    <journal>Future Generation Comp. Syst.</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1016/j.future.2008.08.003</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/fgcs/fgcs25.html#LyndenMHFPSW09</url>
+</article>
+<article mdate="2009-09-09" key="journals/fgcs/RoureGS09">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <title>The design and realisation of the my<sub>Experiment</sub> Virtual Research Environment for social sharing of workflows.</title>
+    <pages>561-567</pages>
+    <year>2009</year>
+    <volume>25</volume>
+    <journal>Future Generation Comp. Syst.</journal>
+    <number>5</number>
+    <ee>http://dx.doi.org/10.1016/j.future.2008.06.010</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/fgcs/fgcs25.html#RoureGS09</url>
+</article>
+<article mdate="2010-05-03" key="journals/fgcs/XingCGD10">
+    <author>Wei Xing</author>
+    <author>scar Corcho</author>
+    <author>Carole A. Goble</author>
+    <author>Marios D. Dikaiakos</author>
+    <title>An ActOn-based semantic information service for Grids.</title>
+    <pages>324-336</pages>
+    <year>2010</year>
+    <volume>26</volume>
+    <journal>Future Generation Comp. Syst.</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1016/j.future.2009.10.003</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/fgcs/fgcs26.html#XingCGD10</url>
+</article>
+<article mdate="2007-12-19" key="journals/ijbra/WolstencroftAHWLSG07">
+    <author>Katy Wolstencroft</author>
+    <author>Pinar Alper</author>
+    <author>Duncan Hull</author>
+    <author>Chris Wroe</author>
+    <author>Phillip W. Lord</author>
+    <author>Robert D. Stevens</author>
+    <author>Carole A. Goble</author>
+    <title>The <sub>my</sub>Grid ontology: bioinformatics service discovery.</title>
+    <pages>303-325</pages>
+    <year>2007</year>
+    <volume>3</volume>
+    <journal>IJBRA</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1504/IJBRA.2007.015005</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ijbra/ijbra3.html#WolstencroftAHWLSG07</url>
+</article>
+<article mdate="2010-04-30" key="journals/ijmms/ChenYH10">
+    <author>Tianyi Chen</author>
+    <author>Yeliz Yesilada</author>
+    <author>Simon Harper</author>
+    <title>What input errors do you experience? Typing and pointing errors of mobile Web users.</title>
+    <pages>138-157</pages>
+    <year>2010</year>
+    <volume>68</volume>
+    <journal>Int. J. Hum.-Comput. Stud.</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1016/j.ijhcs.2009.10.003</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ijmms/ijmms68.html#ChenYH10</url>
+</article>
+<article mdate="2007-11-05" key="journals/ijmms/StevensAWSDHR07">
+    <author>Robert Stevens</author>
+    <author>Mikel Egaa Aranguren</author>
+    <author>Katy Wolstencroft</author>
+    <author>Ulrike Sattler</author>
+    <author>Nick Drummond</author>
+    <author>Matthew Horridge</author>
+    <author>Alan L. Rector</author>
+    <title>Using OWL to model biological knowledge.</title>
+    <pages>583-594</pages>
+    <year>2007</year>
+    <volume>65</volume>
+    <journal>International Journal of Man-Machine Studies</journal>
+    <number>7</number>
+    <ee>http://dx.doi.org/10.1016/j.ijhcs.2007.03.006</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ijmms/ijmms65.html#StevensAWSDHR07</url>
+</article>
+<article mdate="2011-11-02" key="journals/internet/BechhoferYSJH08">
+    <author>Sean Bechhofer</author>
+    <author>Yeliz Yesilada</author>
+    <author>Robert Stevens</author>
+    <author>Simon Jupp</author>
+    <author>Bernard Horan</author>
+    <title>Using Ontologies and Vocabularies for Dynamic Linking.</title>
+    <pages>32-39</pages>
+    <year>2008</year>
+    <volume>12</volume>
+    <journal>IEEE Internet Computing</journal>
+    <number>3</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2008.68</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/internet/internet12.html#BechhoferYSJH08</url>
+</article>
+<article mdate="2007-11-08" key="journals/internet/MissierACDG07">
+    <author>Paolo Missier</author>
+    <author>Pinar Alper</author>
+    <author>scar Corcho</author>
+    <author>Ian Dunlop</author>
+    <author>Carole A. Goble</author>
+    <title>Requirements and Services for Metadata Management.</title>
+    <pages>17-25</pages>
+    <year>2007</year>
+    <volume>11</volume>
+    <journal>IEEE Internet Computing</journal>
+    <number>5</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2007.113</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/internet/internet11.html#MissierACDG07</url>
+</article>
+<article mdate="2009-02-02" key="journals/jbi/GobleS08">
+    <author>Carole A. Goble</author>
+    <author>Robert Stevens</author>
+    <title>State of the nation in data integration for bioinformatics.</title>
+    <pages>687-693</pages>
+    <year>2008</year>
+    <volume>41</volume>
+    <journal>Journal of Biomedical Informatics</journal>
+    <number>5</number>
+    <ee>http://dx.doi.org/10.1016/j.jbi.2008.01.008</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jbi/jbi41.html#GobleS08</url>
+</article>
+<article mdate="2010-09-10" key="journals/jcss/SrokaHMG10">
+    <author>Jacek Sroka</author>
+    <author>Jan Hidders</author>
+    <author>Paolo Missier</author>
+    <author>Carole A. Goble</author>
+    <title>A formal semantics for the Taverna 2 workflow model.</title>
+    <pages>490-508</pages>
+    <year>2010</year>
+    <volume>76</volume>
+    <journal>J. Comput. Syst. Sci.</journal>
+    <number>6</number>
+    <ee>http://dx.doi.org/10.1016/j.jcss.2009.11.009</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jcss/jcss76.html#SrokaHMG10</url>
+</article>
+<article mdate="2009-10-30" key="journals/jdiq/EmburyMSGP09">
+    <author>Suzanne M. Embury</author>
+    <author>Paolo Missier</author>
+    <author>Sandra Sampaio</author>
+    <author>R. Mark Greenwood</author>
+    <author>Alun D. Preece</author>
+    <title>Incorporating Domain-Specific Information Quality Constraints into Database Queries.</title>
+    <year>2009</year>
+    <volume>1</volume>
+    <journal>J. Data and Information Quality</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1577840.1577846</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jdiq/jdiq1.html#EmburyMSGP09</url>
+</article>
+<article mdate="2009-02-03" key="journals/jib/AlamCSHWRHTOP07">
+    <author>Intikhab Alam</author>
+    <author>Mike Cornell</author>
+    <author>Darren M. Soanes</author>
+    <author>Cornelia Hedeler</author>
+    <author>Han Min Wong</author>
+    <author>Magnus Rattray</author>
+    <author>Simon J. Hubbard</author>
+    <author>Nicholas J. Talbot</author>
+    <author>Stephen G. Oliver</author>
+    <author>Norman W. Paton</author>
+    <title>A Methodology for Comparative Functional Genomics.</title>
+    <year>2007</year>
+    <volume>4</volume>
+    <journal>J. Integrative Bioinformatics</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.2390/biecoll-jib-2007-69</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jib/jib4.html#AlamCSHWRHTOP07</url>
+</article>
+<article mdate="2010-05-27" key="journals/jwe/HarperYG06">
+    <author>Simon Harper</author>
+    <author>Yeliz Yesilada</author>
+    <author>Carole A. Goble</author>
+    <title>Editorial.</title>
+    <pages>291</pages>
+    <year>2006</year>
+    <volume>5</volume>
+    <journal>J. Web Eng.</journal>
+    <number>4</number>
+    <ee>http://www.rintonpress.com/journals/jwe/abstractsJWE5-4.html</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jwe/jwe5.html#HarperYG06</url>
+</article>
+<article mdate="2012-11-09" key="journals/jwsr/ChenSGT06">
+    <author>Liming Chen</author>
+    <author>Nigel R. Shadbolt</author>
+    <author>Carole A. Goble</author>
+    <author>Feng Tao</author>
+    <title>Managing Semantic Metadata for Web/Grid Services.</title>
+    <pages>73-94</pages>
+    <year>2006</year>
+    <volume>3</volume>
+    <journal>Int. J. Web Service Res.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.4018/jwsr.2006100104</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jwsr/jwsr3.html#ChenSGT06</url>
+</article>
+<article mdate="2012-11-09" key="journals/jwsr/GoderisLG08">
+    <author>Antoon Goderis</author>
+    <author>Peter Li</author>
+    <author>Carole A. Goble</author>
+    <title>Workflow Discovery: Requirements from E-Science and a Graph-Based Solution.</title>
+    <pages>32-58</pages>
+    <year>2008</year>
+    <volume>5</volume>
+    <journal>Int. J. Web Service Res.</journal>
+    <number>4</number>
+    <ee>http://dx.doi.org/10.4018/jwsr.2008100102</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/jwsr/jwsr5.html#GoderisLG08</url>
+</article>
+<article mdate="2013-02-18" key="journals/nar/BhagatTNLORWASPLG10">
+    <author>Jiten Bhagat</author>
+    <author>Franck Tanoh</author>
+    <author>Eric Nzuobontane</author>
+    <author>Thomas Laurent 0002</author>
+    <author>Jerzy Orlowski</author>
+    <author>Marco Roos</author>
+    <author>Katy Wolstencroft</author>
+    <author>Sergejs Aleksejevs</author>
+    <author>Robert Stevens</author>
+    <author>Steve Pettifer</author>
+    <author>Rodrigo Lopez</author>
+    <author>Carole A. Goble</author>
+    <title>BioCatalogue: a universal catalogue of web services for the life sciences.</title>
+    <pages>689-694</pages>
+    <year>2010</year>
+    <volume>38</volume>
+    <journal>Nucleic Acids Research</journal>
+    <number>Web-Server-Issue</number>
+    <ee>http://dx.doi.org/10.1093/nar/gkq394</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/nar/nar38.html#BhagatTNLORWASPLG10</url>
+</article>
+<article mdate="2011-04-13" key="journals/nar/GobleBACMNBBRLR10">
+    <author>Carole A. Goble</author>
+    <author>Jiten Bhagat</author>
+    <author>Sergejs Aleksejevs</author>
+    <author>Don Cruickshank</author>
+    <author>Danius T. Michaelides</author>
+    <author>David R. Newman</author>
+    <author>Mark Borkum</author>
+    <author>Sean Bechhofer</author>
+    <author>Marco Roos</author>
+    <author>Peter Li</author>
+    <author>David De Roure</author>
+    <title>myExperiment: a repository and social network for the sharing of bioinformatics workflows.</title>
+    <pages>677-682</pages>
+    <year>2010</year>
+    <volume>38</volume>
+    <journal>Nucleic Acids Research</journal>
+    <number>Web-Server-Issue</number>
+    <ee>http://dx.doi.org/10.1093/nar/gkq429</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/nar/nar38.html#GobleBACMNBBRLR10</url>
+</article>
+<article mdate="2007-05-25" key="journals/nar/HullWSGPLO06">
+    <author>Duncan Hull</author>
+    <author>Katy Wolstencroft</author>
+    <author>Robert Stevens</author>
+    <author>Carole A. Goble</author>
+    <author>Matthew R. Pocock</author>
+    <author>Peter Li</author>
+    <author>Tom Oinn</author>
+    <title>Taverna: a tool for building and running workflows of services.</title>
+    <pages>729-732</pages>
+    <year>2006</year>
+    <volume>34</volume>
+    <journal>Nucleic Acids Research</journal>
+    <number>Web-Server-Issue</number>
+    <ee>http://dx.doi.org/10.1093/nar/gkl320</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/nar/nar34.html#HullWSGPLO06</url>
+</article>
+<article mdate="2009-11-09" key="journals/nar/SiepenBSEPGOSZMPJCHPJOH08">
+    <author>Jennifer A. Siepen</author>
+    <author>Khalid Belhajjame</author>
+    <author>Julian N. Selley</author>
+    <author>Suzanne M. Embury</author>
+    <author>Norman W. Paton</author>
+    <author>Carole A. Goble</author>
+    <author>Stephen G. Oliver</author>
+    <author>Robert Stevens</author>
+    <author>Lucas Zamboulis</author>
+    <author>Nigel J. Martin</author>
+    <author>Alexandra Poulovassilis</author>
+    <author>Philip Jones</author>
+    <author>Richard G. Ct</author>
+    <author>Henning Hermjakob</author>
+    <author>Melissa M. Pentony</author>
+    <author>David T. Jones</author>
+    <author>Christine A. Orengo</author>
+    <author>Simon J. Hubbard</author>
+    <title>ISPIDER Central: an integrated database web-server for proteomics.</title>
+    <pages>485-490</pages>
+    <year>2008</year>
+    <volume>36</volume>
+    <journal>Nucleic Acids Research</journal>
+    <number>Web-Server-Issue</number>
+    <ee>http://dx.doi.org/10.1093/nar/gkn196</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/nar/nar36.html#SiepenBSEPGOSZMPJCHPJOH08</url>
+</article>
+<article mdate="2011-01-11" key="journals/nrhm/BrownJH10">
+    <author>Andy Brown</author>
+    <author>Caroline Jay</author>
+    <author>Simon Harper</author>
+    <title>Using qualitative eye-tracking data to inform audio presentation of dynamic Web content.</title>
+    <pages>281-301</pages>
+    <year>2010</year>
+    <volume>16</volume>
+    <journal>The New Review of Hypermedia and Multimedia</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1080/13614568.2010.542253</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/nrhm/nrhm16.html#BrownJH10</url>
+</article>
+<article mdate="2012-09-19" key="journals/sigmod/AntoniolettiKPELMMP06">
+    <author>Mario Antonioletti</author>
+    <author>Amy Krause</author>
+    <author>Norman W. Paton</author>
+    <author>Andrew Eisenberg</author>
+    <author>Simon Laws</author>
+    <author>Susan Malaika</author>
+    <author>Jim Melton</author>
+    <author>Dave Pearson</author>
+    <title>The WS-DAI family of specifications for web service data access and integration.</title>
+    <pages>48-55</pages>
+    <year>2006</year>
+    <volume>35</volume>
+    <journal>SIGMOD Record</journal>
+    <number>1</number>
+    <ee>http://doi.acm.org/10.1145/1121995.1122006</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/sigmod35.html#AntoniolettiKPELMMP06</url>
+</article>
+<article mdate="2011-11-07" key="journals/software/RoureG09">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <title>Software Design for Empowering Scientists.</title>
+    <pages>88-95</pages>
+    <year>2009</year>
+    <volume>26</volume>
+    <journal>IEEE Software</journal>
+    <number>1</number>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/MS.2009.22</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/software/software26.html#RoureG09</url>
+</article>
+<article mdate="2009-04-15" key="journals/tap/HarperMS09">
+    <author>Simon Harper</author>
+    <author>Eleni Michailidou</author>
+    <author>Robert Stevens</author>
+    <title>Toward a definition of visual complexity as an implicit measure of cognitive load.</title>
+    <year>2009</year>
+    <volume>6</volume>
+    <journal>TAP</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1498700.1498704</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tap/tap6.html#HarperMS09</url>
+</article>
+<article mdate="2008-05-16" key="journals/tap/JaySHG08">
+    <author>Caroline Jay</author>
+    <author>Robert Stevens</author>
+    <author>Roger J. Hubbold</author>
+    <author>Mashhuda Glencross</author>
+    <title>Using haptic cues to aid nonvisual structure recognition.</title>
+    <year>2008</year>
+    <volume>5</volume>
+    <journal>TAP</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1279920.1279922</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tap/tap5.html#JaySHG08</url>
+</article>
+<article mdate="2009-09-14" key="journals/tgis/SiyuanGP07">
+    <author>Fang Siyuan</author>
+    <author>Tony Griffiths</author>
+    <author>Norman W. Paton</author>
+    <title>GML for Representing Data from Spatio-Historical Databases: A Case Study.</title>
+    <pages>233-253</pages>
+    <year>2007</year>
+    <volume>11</volume>
+    <journal>T. GIS</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1111/j.1467-9671.2007.01043.x</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tgis/tgis11.html#SiyuanGP07</url>
+</article>
+<article mdate="2011-11-03" key="journals/tkde/ChenSG07">
+    <author>Liming Chen</author>
+    <author>Nigel R. Shadbolt</author>
+    <author>Carole A. Goble</author>
+    <title>A Semantic Web-Based Approach to Knowledge Management for Grid Applications.</title>
+    <pages>283-296</pages>
+    <year>2007</year>
+    <volume>19</volume>
+    <journal>IEEE Trans. Knowl. Data Eng.</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1109/TKDE.2007.20</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tkde/tkde19.html#ChenSG07</url>
+</article>
+<article mdate="2007-10-23" key="journals/tochi/HarperB07">
+    <author>Simon Harper</author>
+    <author>Sean Bechhofer</author>
+    <title>SADIe: Structural semantics for accessibility and device independence.</title>
+    <year>2007</year>
+    <volume>14</volume>
+    <journal>ACM Trans. Comput.-Hum. Interact.</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1275511.1275516</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tochi/tochi14.html#HarperB07</url>
+</article>
+<article mdate="2007-10-23" key="journals/tochi/JayGH07">
+    <author>Caroline Jay</author>
+    <author>Mashhuda Glencross</author>
+    <author>Roger J. Hubbold</author>
+    <title>Modeling the effects of delayed haptic and visual feedback in a collaborative virtual environment.</title>
+    <year>2007</year>
+    <volume>14</volume>
+    <journal>ACM Trans. Comput.-Hum. Interact.</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1275511.1275514</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tochi/tochi14.html#JayGH07</url>
+</article>
+<article mdate="2007-10-23" key="journals/tochi/YesiladaSHG07">
+    <author>Yeliz Yesilada</author>
+    <author>Robert Stevens</author>
+    <author>Simon Harper</author>
+    <author>Carole A. Goble</author>
+    <title>Evaluating DANTE: Semantic transcoding for visually disabled users.</title>
+    <year>2007</year>
+    <volume>14</volume>
+    <journal>ACM Trans. Comput.-Hum. Interact.</journal>
+    <number>3</number>
+    <ee>http://doi.acm.org/10.1145/1279700.1279704</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tochi/tochi14.html#YesiladaSHG07</url>
+</article>
+<article mdate="2008-08-05" key="journals/tog/GlencrossWMJLH08">
+    <author>Mashhuda Glencross</author>
+    <author>Gregory J. Ward</author>
+    <author>Francho Melendez</author>
+    <author>Caroline Jay</author>
+    <author>Jun Liu</author>
+    <author>Roger J. Hubbold</author>
+    <title>A perceptually validated model for surface depth hallucination.</title>
+    <year>2008</year>
+    <volume>27</volume>
+    <journal>ACM Trans. Graph.</journal>
+    <number>3</number>
+    <ee>http://doi.acm.org/10.1145/1360612.1360658</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tog/tog27.html#GlencrossWMJLH08</url>
+</article>
+<article mdate="2008-05-05" key="journals/tweb/BelhajjameEPSG08">
+    <author>Khalid Belhajjame</author>
+    <author>Suzanne M. Embury</author>
+    <author>Norman W. Paton</author>
+    <author>Robert Stevens</author>
+    <author>Carole A. Goble</author>
+    <title>Automatic annotation of Web services based on workflow definitions.</title>
+    <year>2008</year>
+    <volume>2</volume>
+    <journal>TWEB</journal>
+    <number>2</number>
+    <ee>http://doi.acm.org/10.1145/1346337.1346239</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/tweb/tweb2.html#BelhajjameEPSG08</url>
+</article>
+<article mdate="2008-09-12" key="journals/uais/Harper07">
+    <author>Simon Harper</author>
+    <title>Is there design-for-all?</title>
+    <pages>111-113</pages>
+    <year>2007</year>
+    <volume>6</volume>
+    <journal>Universal Access in the Information Society</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1007/s10209-007-0071-2</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/uais/uais6.html#Harper07</url>
+</article>
+<article mdate="2008-09-12" key="journals/uais/HarperYG07">
+    <author>Simon Harper</author>
+    <author>Yeliz Yesilada</author>
+    <author>Carole A. Goble</author>
+    <title>Building the Mobile Web: rediscovering accessibility?</title>
+    <pages>219-220</pages>
+    <year>2007</year>
+    <volume>6</volume>
+    <journal>Universal Access in the Information Society</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1007/s10209-007-0084-x</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/uais/uais6.html#HarperYG07</url>
+</article>
+<article mdate="2008-09-12" key="journals/uais/JaySGCY07">
+    <author>Caroline Jay</author>
+    <author>Robert Stevens</author>
+    <author>Mashhuda Glencross</author>
+    <author>Alan Chalmers</author>
+    <author>Cathy Yang</author>
+    <title>How people use presentation to search for a link: expanding the understanding of accessibility on the Web.</title>
+    <pages>307-320</pages>
+    <year>2007</year>
+    <volume>6</volume>
+    <journal>Universal Access in the Information Society</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1007/s10209-007-0089-5</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/uais/uais6.html#JaySGCY07</url>
+</article>
+<article mdate="2009-02-09" key="journals/vldb/PatonCCRSNYF09">
+    <author>Norman W. Paton</author>
+    <author>Jorge Buenabad Chvez</author>
+    <author>Mengsong Chen</author>
+    <author>Vijayshankar Raman</author>
+    <author>Garret Swart</author>
+    <author>Inderpal Narang</author>
+    <author>Daniel M. Yellin</author>
+    <author>Alvaro A. A. Fernandes</author>
+    <title>Autonomic query parallelization using non-dedicated computers: an evaluation of adaptivity options.</title>
+    <pages>119-140</pages>
+    <year>2009</year>
+    <volume>18</volume>
+    <journal>VLDB J.</journal>
+    <number>1</number>
+    <ee>http://dx.doi.org/10.1007/s00778-007-0090-x</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/vldb/vldb18.html#PatonCCRSNYF09</url>
+</article>
+<article mdate="2006-07-17" key="journals/ws/CorchoAKMBG06">
+    <author>scar Corcho</author>
+    <author>Pinar Alper</author>
+    <author>Ioannis Kotsiopoulos</author>
+    <author>Paolo Missier</author>
+    <author>Sean Bechhofer</author>
+    <author>Carole A. Goble</author>
+    <title>An overview of S-OGSA: A Reference Semantic Grid Architecture.</title>
+    <pages>102-115</pages>
+    <year>2006</year>
+    <volume>4</volume>
+    <journal>J. Web Sem.</journal>
+    <number>2</number>
+    <ee>http://dx.doi.org/10.1016/j.websem.2006.03.001</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ws/ws4.html#CorchoAKMBG06</url>
+</article>
+<article mdate="2007-09-19" key="journals/ws/HarperY07">
+    <author>Simon Harper</author>
+    <author>Yeliz Yesilada</author>
+    <title>Web Authoring for Accessibility (WAfA).</title>
+    <pages>175-179</pages>
+    <year>2007</year>
+    <volume>5</volume>
+    <journal>J. Web Sem.</journal>
+    <number>3</number>
+    <ee>http://dx.doi.org/10.1016/j.websem.2007.05.001</ee>
+    <url>http://www.informatik.uni-trier.de/~ley/db/journals/ws/ws5.html#HarperY07</url>
+</article>
+<incollection mdate="2011-11-25" key="reference/db/BechhoferP09" publtype="encyclopedia entry">
+    <author>Sean Bechhofer</author>
+    <author>Norman W. Paton</author>
+    <title>Ontology Visual Querying.</title>
+    <pages>1973-1977</pages>
+    <year>2009</year>
+    <booktitle>Encyclopedia of Database Systems</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-0-387-39940-9_256</ee>
+    <crossref>reference/db/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/reference/db/o.html#BechhoferP09</url>
+</incollection>
+<incollection mdate="2011-11-25" key="reference/db/StevensL09" publtype="encyclopedia entry">
+    <author>Robert Stevens</author>
+    <author>Phillip W. Lord</author>
+    <title>Ontologies and Life Science Data Management.</title>
+    <pages>1960-1963</pages>
+    <year>2009</year>
+    <booktitle>Encyclopedia of Database Systems</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-0-387-39940-9_631</ee>
+    <crossref>reference/db/2009</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/reference/db/o.html#StevensL09</url>
+</incollection>
+<incollection mdate="2011-12-12" key="series/anis/CastroOGLSCG10">
+    <author>Alexander Garca Castro</author>
+    <author>Kieran O'Neill</author>
+    <author>Leyla Jael Garca-Castro</author>
+    <author>Phillip W. Lord</author>
+    <author>Robert Stevens</author>
+    <author>scar Corcho</author>
+    <author>Frank Gibson</author>
+    <title>Developing Ontologies within Decentralised Settings.</title>
+    <pages>99-139</pages>
+    <year>2010</year>
+    <booktitle>Semantic e-Science</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-1-4419-5908-9_4</ee>
+    <crossref>series/anis/2010-11</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/series/anis/anis11.html#CastroOGLSCG10</url>
+</incollection>
+<incollection mdate="2011-12-12" key="series/anis/RoureG10">
+    <author>David De Roure</author>
+    <author>Carole A. Goble</author>
+    <title>Supporting e-Science Using Semantic Web Technologies - The Semantic Grid.</title>
+    <pages>1-28</pages>
+    <year>2010</year>
+    <booktitle>Semantic e-Science</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-1-4419-5908-9_1</ee>
+    <crossref>series/anis/2010-11</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/series/anis/anis11.html#RoureG10</url>
+</incollection>
+<incollection mdate="2012-02-19" key="series/hci/HarperY08a">
+    <author>Simon Harper</author>
+    <author>Yeliz Yesilada</author>
+    <title>Web Accessibility and Guidelines.</title>
+    <pages>61-78</pages>
+    <year>2008</year>
+    <booktitle>Web Accessibility</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-1-84800-050-6_6</ee>
+    <crossref>series/hci/HarperY08</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/series/hci/HarperY08.html#HarperY08a</url>
+</incollection>
+<incollection mdate="2012-02-19" key="series/hci/JayLM08">
+    <author>Caroline Jay</author>
+    <author>Darren Lunn</author>
+    <author>Eleni Michailidou</author>
+    <title>End User Evaluations.</title>
+    <pages>107-126</pages>
+    <year>2008</year>
+    <booktitle>Web Accessibility</booktitle>
+    <ee>http://dx.doi.org/10.1007/978-1-84800-050-6_8</ee>
+    <crossref>series/hci/HarperY08</crossref>
+    <url>http://www.informatik.uni-trier.de/~ley/db/series/hci/HarperY08.html#JayLM08</url>
+</incollection>
+</dblp>

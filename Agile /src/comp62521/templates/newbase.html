@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+	<!-- Required for the sorting function -->
+        
+        <script src="{{ url_for('static', filename='jquery-1.12.3.js') }}"></script>
+        <script src="{{ url_for('static', filename='jquery.dataTables.min.js') }}"></script>   
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery.dataTables.min.css')}}">
+        <script type="text/javascript" class="init">
+	
+
+	$(document).ready(function() {
+		$('#example').DataTable( {
+                       "iDisplayLength": 100,
+			columnDefs: [ {
+				targets: [ 0 ],
+				orderData: [ 0, 1,2 ]
+			}, {
+				targets: [ 1 ],
+				orderData: [ 0,1,2]
+			}, {
+				targets: [ 2 ],
+				orderData: [ 2,1,0]
+			} ]
+		} );
+	} );
+
+	</script>        
+  </head>
+
+  <body>
+    <div id="page">
+      <div id="header">
+        <h1>COMP62521: {{ args.dataset }}</h1>
+
+        <div id="navigation">
+          <a href="/">Home</a>
+        </div>
+      </div>
+
+      <div id="content">
+       
+        {% block content %}{% endblock %}
+      </div>
+    </div>
+  </body>
+</html>

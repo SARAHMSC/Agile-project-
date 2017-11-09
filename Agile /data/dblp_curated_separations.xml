@@ -1,0 +1,78 @@
+<dblp>
+<inproceedings mdate="2011-10-26" key="conf/haptics/JayH05">
+    <author>Caroline Jay</author>
+    <author>Roger J. Hubbold</author>
+    <title>Delayed Visual and Haptic Feedback in a Reciprocal Tapping Task.</title>
+    <pages>655-656</pages>
+    <year>2005</year>
+    <crossref>conf/haptics/2005</crossref>
+    <booktitle>WHC</booktitle>
+    <ee>http://doi.ieeecomputersociety.org/10.1109/WHC.2005.29</ee>
+    <url>db/conf/haptics/whc2005.html#JayH05</url>
+</inproceedings>
+<article key="journals/nar/WolstencroftHFWWOSDNFBBBHHVSG13" mdate="2014-02-17">
+    <author>Katherine Wolstencroft</author>
+    <author>Robert Haines</author>
+    <author>Donal Fellows</author>
+    <author>Alan R. Williams</author>
+    <author>David Withers</author>
+    <author>Stuart Owen</author>
+    <author>Stian Soiland-Reyes</author>
+    <author>Ian Dunlop</author>
+    <author>Aleksandra Nenadic</author>
+    <author>Paul Fisher</author>
+    <author>Jiten Bhagat</author>
+    <author>Khalid Belhajjame</author>
+    <author>Finn Bacall</author>
+    <author>Alex Hardisty</author>
+    <author>Abraham Nieva de la Hidalga</author>
+    <author>Maria P. Balcazar Vargas</author>
+    <author>Shoaib Sufi</author>
+    <author>Carole A. Goble</author>
+    <title>The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud.</title>
+    <pages>557-561</pages>
+    <year>2013</year>
+    <volume>41</volume>
+    <journal>Nucleic Acids Research</journal>
+    <number>Webserver-Issue</number>
+    <ee>http://dx.doi.org/10.1093/nar/gkt328</ee>
+    <url>db/journals/nar/nar41.html#WolstencroftHFWWOSDNFBBBHHVSG13</url>
+</article>
+<article mdate="2011-06-07" key="journals/cacm/CeriG86">
+    <author>Stefano Ceri</author>
+    <author>Georg Gottlob</author>
+    <title>Normalization of Relations and PROLOG.</title>
+    <pages>524-544</pages>
+    <year>1986</year>
+    <volume>29</volume>
+    <journal>Commun. ACM</journal>
+    <number>6</number>
+    <url>db/journals/cacm/cacm29.html#CeriG86</url>
+    <ee>http://doi.acm.org/10.1145/5948.5952</ee>
+    <cdrom>CACMs1/CACM29/P0524.pdf</cdrom>
+</article>
+<inproceedings mdate="2002-12-09" key="conf/ht/GobleHS00">
+    <author>Carole A. Goble</author>
+    <author>Simon Harper</author>
+    <author>Robert Stevens</author>
+    <title>The travails of visually impaired web travellers.</title>
+    <pages>1-10</pages>
+    <year>2000</year>
+    <booktitle>Hypertext</booktitle>
+    <ee>http://doi.acm.org/10.1145/336296.336304</ee>
+    <url>db/conf/ht/ht2000.html#GobleHS00</url>
+</inproceedings>
+<inproceedings mdate="2008-05-13" key="conf/www/YesiladaJSH08">
+    <author>Yeliz Yesilada</author>
+    <author>Caroline Jay</author>
+    <author>Robert Stevens</author>
+    <author>Simon Harper</author>
+    <title>Validating the use and role of visual elements of web pages in navigation with an eye-tracking study.</title>
+    <pages>11-20</pages>
+    <year>2008</year>
+    <booktitle>WWW</booktitle>
+    <ee>http://doi.acm.org/10.1145/1367497.1367500</ee>
+    <crossref>conf/www/2008</crossref>
+    <url>db/conf/www/www2008.html#YesiladaJSH08</url>
+</inproceedings>
+</dblp>
